@@ -77,7 +77,8 @@ Cele systemu nigdy nie były i nie będą zbieżne z pojedynczą jednostką, cz�
 ## 7
 
 Jak ubrać determinację jednostki do realizacji celów tak, by nie stały w konflikcie z zastanymi i istniejącymi systemami majacymi często sprzeczne, inne cele ?
-Jak podjąć temat zwiększenia efektywności pozyskiwania dóbr bez udziału świata finansów przygotowanych przez system?
+
+Jak podjąć temat zwiększenia efektywności pozyskiwania dóbr bez udziału świata finansów przygotowanych przez (lokalny i globalny) system?
 
 ## 8
 
