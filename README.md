@@ -60,8 +60,8 @@ Zdolność ta w Europie maleja z roku na rok na skutek szkodliwych działań org
 ## 5
 
 Ludzie wolni, szukają rozwiązań zgodnych z prawem.
-Obecnie tocząca się wojna rodzi konflikty moralne z powodu siłowych rozwiązań rządów wielu krajów, łamania przepisów przez te kraje ustanowionych,
-burzenie ładu publicznego poprzez prawo wadliwie ustanawiane i egzekwowane.
+Obecnie tocząca się wojna rodzi konflikty moralne z powodu siłowych rozwiązań rządów wielu krajów.
+Rządy łamią prawo na prędce ustanawiane, burząc zaufanie i ład, egzekwując wadliwe prawo wprowadzają chaos.
 
 ## 6
 
