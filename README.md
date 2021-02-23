@@ -120,6 +120,7 @@ Dwie Fundacje dla potrzeb pobierania i przesyłania dalej środków bez opłat r
 
     1 input do pobierania ze swiata zewnętrznego
       2 input: organizacja do pobierania pomiędzy organizacjami
+        + transakcja wymiany zapisywana w blockchain: osoba <-> osoba
       3 output: organizacja do wysyłania pomiędzy organizacjami
     4 output: do wysyłania do świata zewnętrznego
 
@@ -132,7 +133,7 @@ Cechy modelu:
 + elementy 1 i 4 wymagają danych opartych o wartości (waluty) przypisanej do konkretnego człowieka na zewnątrz systemu
 + elementy 2 i 3 mogą być wielokrotnie powielane w czasie co da możliwość rozrastania się systemu niezależnie od miejsca
 
-Taka podstawowa struktura umożlwia realizację w blockchaine rozliczeń, powinna uniezależnić jednostki funkcjonujące w jej systemie od systemu zenwętrznego
+Taka podstawowa struktura umożlwia realizację w blockchaine rozliczeń, powinna uniezależnić jednostki funkcjonujące w jej systemie od systemu zewnętrznego
 
 Warto rozróżnić dwie kwestie: prawne i opłatowe*
 + prawo działa na podstawie zawrtych umów
