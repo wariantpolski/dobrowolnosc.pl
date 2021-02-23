@@ -105,7 +105,7 @@ np rozliczenia roczne zakładają zbiorcze rezultaty i na tej podstawie można o
 
 ## 10
 
-Rozwiązanie pozwalajace na przeprowadzenie eksperymentu powinny selektywnie uniezależnić osoby uczetniczące w eksperymencie od skutków opłatowych* z uwagi na cele ekseprymentu, by jego wyniki nie był zachwiane poprzez zmienną politykę rządów.
+Rozwiązania pozwalajace na przeprowadzenie eksperymentu powinny uniezależnić osoby uczetniczące w eksperymencie od skutków opłatowych*, by wyniki nie był zachwiane poprzez zmienną politykę rządów.
 
 Warto rozważyć obecny stan prawny majacy wpływ na strukturę organizacyjną oraz na sposób rozliczeń.
 
