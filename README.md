@@ -22,8 +22,6 @@ Będzie możliwe stworzenie proxy, warstwy stabilizującej, mogącej znieść wi
 Agenda 2030 to jedynie czubek tzw. góry lodowej.
 O otaczającej nas rzeczywistości decydują rządy oraz coraz częściej korporacje poprzez lobbing.
 
-## 3
-
 To jaki system przeważa nie zależy od samych zapisów prawa a od jego egzekwowania zgodnie a nie ponad prawem.
 Niestety wielu odczuło w czasie Lockdown'u, że prawo silniejszego to najbardziej aktualne prawo.
 
@@ -31,7 +29,7 @@ Agenda 2030 to nie inicjatywa rządów a ludzi korporacji a mimo to jest impleme
 
 Rezultaty działań agendy 2030 dotyczą całego globu i nie jest możliwe jej powstrzymanie, dlatego tym bardziej warto zrozumieć już dziś rezultaty za tą agendą idące.
 
-## 4
+## 3
 
 Warto poznać w praktyce rezultaty przeprowadzając opisywany w tym dokumencie eksperyment, mając mozłiwość przekonujać się czym jest ta agenda:
 + czy agenda 2030 uchroni nas przed skutkami tego z czym oficjalnie mówi, że walczy?
@@ -47,7 +45,7 @@ Warto poznać w praktyce rezultaty przeprowadzając opisywany w tym dokumencie e
 + Jak zmieni się ilość niewolników na świecie oraz ilość obozów koncentracyjnych?
 
 
-## 5
+## 4
 
 Wartości są ideą, nie mają miary. 
 + 99% prawdy to kłamstwo
@@ -60,7 +58,7 @@ Bierność to też decyzja
 + [Prawo natury – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Prawo_natury)
 
 
-## 6
+## 5
 
 Populacja człowieka jest zdeterminowana jego zdolnością do rozmnażania.
 Zdolność ta w Europie maleja z roku na rok na skutek szkodliwych działań organizacji współpracujących z rządami.
@@ -69,7 +67,7 @@ Ludzie wolni, szukają rozwiązań zgodnych z prawem.
 Obecnie tocząca się wojna rodzi konflikty moralne z powodu siłowych rozwiązań rządów wielu krajów.
 Rządy łamią prawo na prędce ustanawiane, burząc zaufanie i ład, egzekwując wadliwe prawo wprowadzają chaos.
 
-## 7
+## 6
 
 Czym jest obecnie funkcjonujący system i jakie są jego cele?
 - zespół wzajemnie powiązanych elementów realizujących jako całość założone cele
