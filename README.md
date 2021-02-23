@@ -18,10 +18,12 @@ Nawet ten dokument przeze mnie pisany jest oparty o rozproszony system zapisu pl
 Agenda 2030 to jedynie czubek tzw. góry lodowej, wszystko zmieni się nie do poznania systemowo, decyzjami politycznymi, tak jak było to dotychczas, ale o ile dziś  decydują (czasem) rządy i (częściej poprzez lobbing) korporacje.
 To jaki system przeważa nie zależy od przepisów prawa a od jego egzekwowania zgodnie a nie ponad prawem.
 Prawo silniejszego to najbardziej aktualne prawo.
-Agenda 2030 to nie inicjatywa rządów a ludzi korporacji i jest implementowana bez pytania o zgodę w referendach.
-Dotyczy całego globu i nie jest możliwe jej zmodyfikowanie, ale warto zrozumieć już dziś rezultaty tego.
 
-Warto poznać w praktyce rezultaty przeprowadzając eksperyment, przekonując się samemu czym jest ta agenda:
+Agenda 2030 to nie inicjatywa rządów a ludzi korporacji a mimo to jest implementowana w praktyce przez pojedyncze miasta bez pytania o zgodę ludności w referendach.
+
+Rezultaty działań agendy 2030 dotyczą całego globu i nie jest możliwe jej powstrzymanie, dlatego tym bardziej warto zrozumieć już dziś rezultaty za tą agendą idące.
+
+Warto poznać w praktyce rezultaty przeprowadzając opisywany w tym dokumencie eksperyment, mając mozłiwość przekonujać się czym jest ta agenda:
 + czy agenda 2030 uchroni nas przed skutkami tego z czym oficjalnie mówi, że walczy?
 + co jeśli agenda 2030 poniesie fiasko i zamiast tego co planowała przyniesie odwrotne skutki?
 + Jak zmieni się stan własności przecietnej osoby w roku 2030?
@@ -129,6 +131,7 @@ Dwie Fundacje dla potrzeb pobierania i przesyłania dalej środków bez opłat r
         4 output: do wysyłania do świata zewnętrznego
     + przelew na konto do organizacji spoza blockchain
 
+
 ## 12
 Cechy modelu:
 
@@ -146,11 +149,14 @@ Warto rozróżnić dwie kwestie: prawne i opłatowe*
 + opłaty* tylko na zewnątrz
 + wewnątrz zero kosztów, opłat* systemowych tylko czysty zapis transakcji
 
+
 ## 13
 Proces wchodzenia i wychodzenie jednostek z systemu (do opracowania)
 
+
 ## 14
 Proces zwiększania i zmniejszania jednostek w systemie wewnętrznym i zewnętrznym (do opracowania)
+
 
 ## 15
 Dla kogo jest ten eksperyment?
@@ -162,7 +168,7 @@ Dla kogo jest ten eksperyment?
 
 # Pytania
 
-inflacja wartości subiektywnej (zapisanych zdarzeń) i obiektywnej (jednostek monetarnych) tego systemu,
++ Czy będzie istniała i na jakim poziomie inflacja wartości subiektywnej (zapisanych zdarzeń) i obiektywnej (jednostek monetarnych) tego systemu?
 + czy i kiedy była by możliwa?
 + zmiana struktury, w jaki sposób, jak często?
 + Jak bazując na krokach w elementach modelu 2 i 3 transferować rezultaty zdarzeń pomiędzy jednostkami bezpośrednio bez udziału elementów 1 i 4, które były by stosowane do rozliczeń z aktualnym systemem zewnetrznym?
