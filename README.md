@@ -7,6 +7,9 @@ Implementacja rzeczywistości w zapisie blockchain za pomocą istniejących form
 
 ## Wstęp
 
+Obecny stan prawny jest niestabilny, w takich warunkach wydaje się oczywiste poszukiwanie rozwiązania mogącego niwelować szkodliwe skutki polityki rządów.
+Przy okazji eksperymentu możliwe będzie stworzenie proxy, warstwy stabilizującej, mogącej znieść wiele zmian, które mają miejsce na skutek szkodliwego działania rządów.
+
 ## 1
 Agenda 2030 to jedynie czubek tzw. góry lodowej, wszystko zmieni się nie do poznania systemowo, decyzjami politycznymi, tak jak było to dotychczas, ale o ile dziś  decydują (czasem) rządy i (częściej poprzez lobbing) korporacje.
 To jaki system przeważa nie zależy od przepisów prawa a od jego egzekwowania zgodnie a nie ponad prawem.
