@@ -107,8 +107,10 @@ Dwie Fundacje dla potrzeb pobierania i przesyłania dalej środków bez opłat r
 Cechy modelu:
 
 + system zewnętrzny używa jednostek, system wewnętrzny zapisu zdarzeń
-+ transfer pomiędzy systemem użwającym jednostek (zewnętrzny) a systemem zapisanym w technologii blockchain (wewnętrzny )wymaga konwersji i przypisania do konkretnego człowieka na zewnątrz systemu, jednak wewnątrz może być dowolnie modyfikowany
-+ elementy 2 i 3 mogą być wielokrotnie powielane
++ transfer pomiędzy systemem użwającym jednostek (zewnętrzny) a systemem zapisanym w technologii blockchain
++ elementy 2 i 3 (wewnętrzne) przeprowadzają wymianę w systemie blockchain
++ elementy 1 i 4 wymagają danych opartych o wartości (waluty) przypisanej do konkretnego człowieka na zewnątrz systemu
++ elementy 2 i 3 mogą być wielokrotnie powielane w czasie co da możliwość rozrastania się systemu niezależnie od miejsca
 
 Taka podstawowa struktura umożlwia realizację w blockchaine rozliczeń, powinna uniezależnić jednostki funkcjonujące w jej systemie od systemu zenwętrznego
 
