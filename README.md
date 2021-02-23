@@ -16,10 +16,10 @@ Agenda 2030 to jedynie czubek tzw. góry lodowej, wszystko zmieni się nie do po
 
 
 ## 3
-Wartości są idea nie mają miary. 
-99% prawdy to kłamstwo
-99% wolności to niewola
-Bierność to też decyzja
++ Wartości są ideą, nie mają miary. 
++ 99% prawdy to kłamstwo
++ 99% wolności to niewola
++ Bierność to też decyzja
 
 
 ## 4
