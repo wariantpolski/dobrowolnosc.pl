@@ -155,7 +155,7 @@ Dla kogo jest ten eksperyment?
 + Dla każdego chcącego sprawdzić jakie korzyści i wady wynikają z rozliczania człowieka z innych metod niż gotówkowe.
 + Dla entuzjastów technologii blockchain chcących pogłębić swoją wiedzę i doświadczyć tego co czeka ich za dekadę.
 + Dla naukowców mających wiedzę w opisywanej technologii i prawie międzynarodowym, chcących się podzielić się wiedzą i wynikami swoich prac
-+ DLa ludzi szukających inspiracji
++ Dla ludzi szukających inspiracji
 
 
 # Pytania
