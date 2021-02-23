@@ -12,7 +12,7 @@ Nawet ten dokument przeze mnie pisany jest oparty o rozproszony system zapisu pl
 
 + [git](https://pl.wikipedia.org/wiki/Git_(oprogramowanie))
 + [blockchain](https://pl.wikipedia.org/wiki/Blockchain)
-+ [interpolacja](https://pl.wikipedia.org/wiki/Interpolacja_(matematyka))
+
 
 ## 2
 Agenda 2030 to jedynie czubek tzw. góry lodowej, wszystko zmieni się nie do poznania systemowo, decyzjami politycznymi, tak jak było to dotychczas, ale o ile dziś  decydują (czasem) rządy i (częściej poprzez lobbing) korporacje.
