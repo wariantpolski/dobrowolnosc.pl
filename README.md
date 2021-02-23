@@ -14,7 +14,24 @@ Nawet ten dokument przeze mnie pisany jest oparty o rozproszony system zapisu pl
 + [interpolacja](https://pl.wikipedia.org/wiki/Interpolacja_(matematyka))
 
 ## 2
-Agenda 2030 to jedynie czubek tzw. góry lodowej, wszystko zmieni się nie do poznania systemowo, decyzjami politycznymi, tak jak było to dotychczas, ale o ile dziś decydują rządy i korporacje, tak poza 2030 tylko korporacje
+Agenda 2030 to jedynie czubek tzw. góry lodowej, wszystko zmieni się nie do poznania systemowo, decyzjami politycznymi, tak jak było to dotychczas, ale o ile dziś  decydują (czasem) rządy i (częściej poprzez lobbing) korporacje.
+To jaki system przeważa nie zależy od przepisów prawa a od jego egzekwowania zgodnie a nie ponad prawem.
+Prawo silniejszego to najbardziej aktualne prawo.
+Agenda 2030 to nie inicjatywa rządów a ludzi korporacji i jest implementowana bez pytania o zgodę w referendach.
+Dotyczy całego globu i nie jest możliwe jej zmodyfikowanie, ale warto zrozumieć już dziś rezultaty tego.
+
+Warto poznać w praktyce rezultaty przeprowadzając eksperyment, przekonując się samemu czym jest ta agenda:
++ czy agenda 2030 uchroni nas przed skutkami tego z czym oficjalnie mówi, że walczy?
++ co jeśli agenda 2030 poniesie fiasko i zamiast tego co planowała przyniesie odwrotne skutki?
++ Jak zmieni się stan własności przecietnej osoby w roku 2030?
++ Jak zmieni się model i jakość życia?
++ jak zmieni się ilość ludności, starszych osób?
++ Jakie w praktyce będzie miała prawa jednostka, o czym będzie mogła decydować ?
++ do czego wystarczy dochód podstawowy?
++ jak wpłynie to na zdrowie i opiekę medyczną?
++ Jak zmieni się ilość niewolników na świecie oraz ilość obozów koncentracyjnych?
+
+
 
 
 ## 3
