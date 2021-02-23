@@ -5,16 +5,9 @@ Dobro i Wolność nie mają ceny
 # Eksperyment społeczny: blockchain
 Implementacja rzeczywistości w zapisie blockchain za pomocą istniejących form prawnych w Polsce, aby odzwierciedlić długofalowy wpływ stosowania blockchain na człowieka i społeczność uczestnicząca w tym eksperymencie i funkcjonująca poza nim.
 
+## Wstęp
 
 ## 1
-Blockchain jako sposób zapisu transakcji i informacji nie był pierwszym, gdyż od kilkudziesięciu lat są rozwijane różne metody zapisu i strukturyzacji danych.
-Nawet ten dokument przeze mnie pisany jest oparty o rozproszony system zapisu plików nazywany systemem kontroli wersji (plików) Git, w pewnych kwestiach podobny do technologii blockchain.
-
-+ [git](https://pl.wikipedia.org/wiki/Git_(oprogramowanie))
-+ [blockchain](https://pl.wikipedia.org/wiki/Blockchain)
-
-
-## 2
 Agenda 2030 to jedynie czubek tzw. góry lodowej, wszystko zmieni się nie do poznania systemowo, decyzjami politycznymi, tak jak było to dotychczas, ale o ile dziś  decydują (czasem) rządy i (częściej poprzez lobbing) korporacje.
 To jaki system przeważa nie zależy od przepisów prawa a od jego egzekwowania zgodnie a nie ponad prawem.
 Prawo silniejszego to najbardziej aktualne prawo.
@@ -37,8 +30,7 @@ Warto poznać w praktyce rezultaty przeprowadzając opisywany w tym dokumencie e
 + Jak zmieni się ilość niewolników na świecie oraz ilość obozów koncentracyjnych?
 
 
-
-## 3
+## 2
 
 Wartości są ideą, nie mają miary. 
 + 99% prawdy to kłamstwo
@@ -51,7 +43,7 @@ Bierność to też decyzja
 + [Prawo natury – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Prawo_natury)
 
 
-## 4
+## 3
 
 Populacja człowieka jest zdeterminowana jego zdolnością do rozmnażania.
 Zdolność ta w Europie maleja z roku na rok na skutek szkodliwych działań organizacji współpracujących z rządami.
@@ -60,7 +52,7 @@ Ludzie wolni, szukają rozwiązań zgodnych z prawem.
 Obecnie tocząca się wojna rodzi konflikty moralne z powodu siłowych rozwiązań rządów wielu krajów.
 Rządy łamią prawo na prędce ustanawiane, burząc zaufanie i ład, egzekwując wadliwe prawo wprowadzają chaos.
 
-## 5
+## 4
 
 Czym jest obecnie funkcjonujący system i jakie są jego cele?
 - zespół wzajemnie powiązanych elementów realizujących jako całość założone cele
@@ -73,7 +65,18 @@ Cele systemu nigdy nie były i nie będą zbieżne z pojedynczą jednostką, cz�
 + stan finansowy, możności i zdolności do działania
 + determinacja wynikająca z powyższych
 
-## 6
+
+# Ekosystem Blockchain
+
+## 1
+Blockchain jako sposób zapisu transakcji i informacji nie był pierwszym, gdyż od kilkudziesięciu lat są rozwijane różne metody zapisu i strukturyzacji danych.
+Nawet ten dokument przeze mnie pisany jest oparty o rozproszony system zapisu plików nazywany systemem kontroli wersji (plików) Git, w pewnych kwestiach podobny do technologii blockchain.
+
++ [git](https://pl.wikipedia.org/wiki/Git_(oprogramowanie))
++ [blockchain](https://pl.wikipedia.org/wiki/Blockchain)
+
+
+## 2
 
 Techniczne aspekty, przydatne przy rozliczaniu się wzajemnie z usług, możliwe do wykorzystania w barterze blockchain:
 
@@ -97,20 +100,20 @@ Rozliczenie następuje za pośrednie możliwe do zmierzenia bądź oszacowania w
 Samochód spalający paliwo ma zmienną sprawność w zależności od warunków pracy i otoczenia (np. temperatury),
 dlatego ilość włożonej energii nie jest proprocjonalna do ilości przejechanej drogi i spalonej ilości paliwa.
 
-## 7
+## 3
 
 Formy umowy pozwalaja na inne sposoby oceniania rezultaty niezależnie od pracy włożonej i czasu na to przeznaczonego.
 Samo istnienie potencjału/energii nie jest opłatowane**, gdyż musi nastąpić w czasie
 np rozliczenia roczne zakładają zbiorcze rezultaty i na tej podstawie można opłatować** prawie wszystko.
 
 
-## 8
+## 4
 
 Rozwiązania prawne wdrożone w całym ekosystemie powinny pomóc w przeprowadzeniu eksperymentu bez skutków opłatowych*, by wyniki nie był zachwiane poprzez zmienną politykę rządów, które coraz częściej zmieniają warunki otoczenia i wcale nie zamierzają stabilizować prawa a jesli tak to z korzyścią dla siebie narzucając inne opłaty* np. od obrotu jako dodatkowe opłaty* a nie alternatywne.
 
 Warto rozważyć obecny stan prawny majacy wpływ na strukturę organizacyjną oraz na sposób rozliczeń.
 
-## 9
+## 5
 Przykładowy model.
 
 Dwie Fundacje dla potrzeb pobierania i przesyłania dalej środków bez opłat* rządu w ramach celów statusowych (ekpserymentu), stanowiące proxy
@@ -125,7 +128,7 @@ Dwie Fundacje dla potrzeb pobierania i przesyłania dalej środków bez opłat* 
     + przelew na konto do organizacji spoza blockchain
 
 
-## 10
+## 6
 Cechy modelu:
 
 + system zewnętrzny 1 i 4 używa jednostek, system wewnętrzny 2 i 3 zapisu zdarzeń
@@ -143,15 +146,16 @@ Warto rozróżnić dwie kwestie: prawne i opłatowe*
 + wewnątrz zero kosztów, opłat* systemowych tylko czysty zapis transakcji
 
 
-## 11
+## 7
 Proces wchodzenia i wychodzenie jednostek z systemu (do opracowania)
 
 
-## 12
+## 8
 Proces zwiększania i zmniejszania jednostek w systemie wewnętrznym i zewnętrznym (do opracowania)
 
+# Podsumowanie
 
-# Dla kogo może być przydatny eksperyment oraz wnioski po jego przeprowadzeniu
+## Dla kogo może być przydatny eksperyment oraz wnioski po jego przeprowadzeniu
 
 + Dla każdego chcącego sprawdzić jakie korzyści i wady wynikają z rozliczania człowieka z innych metod niż gotówkowe.
 + Dla entuzjastów technologii blockchain chcących pogłębić swoją wiedzę i doświadczyć tego co czeka ich za dekadę.
@@ -159,7 +163,7 @@ Proces zwiększania i zmniejszania jednostek w systemie wewnętrznym i zewnętrz
 + Dla ludzi szukających inspiracji
 
 
-# Pytania
+## Pytania
 
 + Czy będzie istniała i na jakim poziomie inflacja wartości subiektywnej (zapisanych zdarzeń) i obiektywnej (jednostek monetarnych) tego systemu?
 + czy i kiedy była by możliwa?
@@ -171,7 +175,7 @@ Proces zwiększania i zmniejszania jednostek w systemie wewnętrznym i zewnętrz
 + Jak podjąć temat zwiększenia efektywności pozyskiwania dóbr bez udziału świata finansów przygotowanych przez (lokalny i globalny) system?
 
 
-# Osoba do kontaktu
+## Osoba do kontaktu
 
 Tomasz Sapletta
 
