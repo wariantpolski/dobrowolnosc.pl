@@ -138,7 +138,7 @@ Cechy modelu:
 Taka podstawowa struktura umożlwia realizację w blockchaine rozliczeń, powinna uniezależnić jednostki funkcjonujące w jej systemie od systemu zewnętrznego
 
 Warto rozróżnić dwie kwestie: prawne i opłatowe*
-+ prawo działa na podstawie zawrtych umów
++ prawo działa na podstawie zawartych umów
 + opłaty* tylko na zewnątrz
 + wewnątrz zero kosztów, opłat* systemowych tylko czysty zapis transakcji
 
@@ -171,4 +171,7 @@ Proces zwiększania i zmniejszania jednostek w systemie wewnętrznym i zewnętrz
 + Jak podjąć temat zwiększenia efektywności pozyskiwania dóbr bez udziału świata finansów przygotowanych przez (lokalny i globalny) system?
 
 
+# Osoba do kontaktu
+
+Tomasz Sapletta
 
