@@ -5,6 +5,7 @@ Dobro i Wolność nie mają ceny
 # Eksperyment społeczny: blockchain
 Implementacja rzeczywistości w zapisie blockchain za pomocą istniejących form prawnych w Polsce, aby odzwierciedlić długofalowy wpływ stosowania blockchain na człowieka i społeczność uczestnicząca w tym eksperymencie i funkcjonująca poza nim.
 
+
 ## 1
 Blockchain jako sposób zapisu transakcji i informacji nie był pierwszym, gdyż od kilkudziesięciu lat są rozwijane różne metody zapisu i strukturyzacji danych.
 Nawet ten dokument przeze mnie pisany jest oparty o rozproszony system zapisu plików nazywany systemem kontroli wersji (plików) Git, w pewnych kwestiach podobny do technologii blockchain.
@@ -32,7 +33,6 @@ Warto poznać w praktyce rezultaty przeprowadzając eksperyment, przekonując si
 + Od czego będzie uzależniony dochód podstawowy i czy będzie można funkcjonować bez niego?
 + jak wpłynie to na zdrowie i opiekę medyczną?
 + Jak zmieni się ilość niewolników na świecie oraz ilość obozów koncentracyjnych?
-
 
 
 
@@ -149,6 +149,12 @@ Proces wchodzenia i wychodzenie jednostek z systemu (do opracowania)
 
 ## 14
 Proces zwiększania i zmniejszania jednostek w systemie wewnętrznym i zewnętrznym (do opracowania)
+
+## 15
+Dla kogo jest ten eksperyment?
+Dla każdego chcącego sprawdzić jakie korzyści i wady wynikają z rozliczania człowieka z innych metod niż gotówkowe.
+Dla entuzjastów technologii blockchain chcących pogłębić swoją wiedzę i doświadczyć tego co czeka ich za dekadę.
+Dla naukowców mających wiedzę i chcących się podzielić wynikami a takżę tych szukajacych inspiracji do badań.
 
 
 # Pytania
