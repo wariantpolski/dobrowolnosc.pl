@@ -56,16 +56,13 @@ Bierność to też decyzja
 Populacja człowieka jest zdeterminowana jego zdolnością do rozmnażania.
 Zdolność ta w Europie maleja z roku na rok na skutek szkodliwych działań organizacji współpracujących z rządami.
 
-
-## 5
-
 Ludzie wolni, szukają rozwiązań zgodnych z prawem.
 Obecnie tocząca się wojna rodzi konflikty moralne z powodu siłowych rozwiązań rządów wielu krajów.
 Rządy łamią prawo na prędce ustanawiane, burząc zaufanie i ład, egzekwując wadliwe prawo wprowadzają chaos.
 
-## 6
+## 5
 
-Czym jest System?
+Czym jest obecnie funkcjonujący system i jakie są jego cele?
 - zespół wzajemnie powiązanych elementów realizujących jako całość założone cele
 
 + [System](https://pl.wikipedia.org/wiki/System)
@@ -76,13 +73,9 @@ Cele systemu nigdy nie były i nie będą zbieżne z pojedynczą jednostką, cz�
 + stan finansowy, możności i zdolności do działania
 + determinacja wynikająca z powyższych
 
-## 7
+## 6
 
-Jak ubrać determinację jednostki do realizacji celów tak, by nie stały w konflikcie z zastanymi i istniejącymi systemami majacymi często sprzeczne, inne cele ?
-
-Jak podjąć temat zwiększenia efektywności pozyskiwania dóbr bez udziału świata finansów przygotowanych przez (lokalny i globalny) system?
-
-## 8
+Techniczne aspekty, przydatne przy rozliczaniu się wzajemnie z usług, możliwe do wykorzystania w barterze blockchain:
 
 Jednostkę miary która jednoznaczna i nie kwestionowalna to czas
 
@@ -104,20 +97,20 @@ Rozliczenie następuje za pośrednie możliwe do zmierzenia bądź oszacowania w
 Samochód spalający paliwo ma zmienną sprawność w zależności od warunków pracy i otoczenia (np. temperatury),
 dlatego ilość włożonej energii nie jest proprocjonalna do ilości przejechanej drogi i spalonej ilości paliwa.
 
-## 9 
+## 7
 
 Formy umowy pozwalaja na inne sposoby oceniania rezultaty niezależnie od pracy włożonej i czasu na to przeznoczaonego.
 Samo istnienie potencjału/energii nie jest opłatowane*, gdyż musi nastąpić w czasie
 np rozliczenia roczne zakładają zbiorcze rezultaty i na tej podstawie można opłatować* prawie wszystko.
 
 
-## 10
+## 8
 
 Rozwiązania prawne wdrożone w całym ekosystemie powinny pomóc w przeprowadzeniu eksperymentu bez skutków opłatowych*, by wyniki nie był zachwiane poprzez zmienną politykę rządów, które coraz częściej zmieniają warunki otoczenia i wcale nie zamierzają stabilizować prawa a jesli tak to z korzyścią dla siebie narzucając inne opłaty* np. od obrotu jako dodatkowe opłaty* a nie alternatywne.
 
 Warto rozważyć obecny stan prawny majacy wpływ na strukturę organizacyjną oraz na sposób rozliczeń.
 
-## 11
+## 9
 Przykładowy model.
 
 Dwie Fundacje dla potrzeb pobierania i przesyłania dalej środków bez opłat* rządu w ramach celów statusowych (ekpserymentu), stanowiące proxy
@@ -132,7 +125,7 @@ Dwie Fundacje dla potrzeb pobierania i przesyłania dalej środków bez opłat* 
     + przelew na konto do organizacji spoza blockchain
 
 
-## 12
+## 10
 Cechy modelu:
 
 + system zewnętrzny 1 i 4 używa jednostek, system wewnętrzny 2 i 3 zapisu zdarzeń
@@ -150,16 +143,16 @@ Warto rozróżnić dwie kwestie: prawne i opłatowe*
 + wewnątrz zero kosztów, opłat* systemowych tylko czysty zapis transakcji
 
 
-## 13
+## 11
 Proces wchodzenia i wychodzenie jednostek z systemu (do opracowania)
 
 
-## 14
+## 12
 Proces zwiększania i zmniejszania jednostek w systemie wewnętrznym i zewnętrznym (do opracowania)
 
 
-## 15
-Dla kogo jest ten eksperyment?
+# Dla kogo jest ten eksperyment?
+
 + Dla każdego chcącego sprawdzić jakie korzyści i wady wynikają z rozliczania człowieka z innych metod niż gotówkowe.
 + Dla entuzjastów technologii blockchain chcących pogłębić swoją wiedzę i doświadczyć tego co czeka ich za dekadę.
 + Dla naukowców mających wiedzę w opisywanej technologii i prawie międzynarodowym, chcących się podzielić się wiedzą i wynikami swoich prac
@@ -174,7 +167,8 @@ Dla kogo jest ten eksperyment?
 + Jak bazując na krokach w elementach modelu 2 i 3 transferować rezultaty zdarzeń pomiędzy jednostkami bezpośrednio bez udziału elementów 1 i 4, które były by stosowane do rozliczeń z aktualnym systemem zewnetrznym?
 + Jakie były by koszty prowadzenia tych sformalizowanych form?
 + Ile takich modeli trzeba by było zmultiplikować w zależności od liczby, przyrostu nowych wolontariuszy?
-
++ Jak ubrać determinację jednostki do realizacji celów tak, by nie stały w konflikcie z zastanymi i istniejącymi systemami majacymi często sprzeczne, inne cele ?
++ Jak podjąć temat zwiększenia efektywności pozyskiwania dóbr bez udziału świata finansów przygotowanych przez (lokalny i globalny) system?
 
 
 
