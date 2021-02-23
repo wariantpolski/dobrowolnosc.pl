@@ -25,6 +25,7 @@ Warto poznać w praktyce rezultaty przeprowadzając eksperyment, przekonując si
 + co jeśli agenda 2030 poniesie fiasko i zamiast tego co planowała przyniesie odwrotne skutki?
 + Jak zmieni się stan własności przecietnej osoby w roku 2030?
 + Jak zmieni się model i jakość życia?
++ Jak wzrosną koszty życia i energii oraz surowców?
 + jak zmieni się ilość ludności, starszych osób?
 + Jakie w praktyce będzie miała prawa jednostka, o czym będzie mogła decydować ?
 + do czego wystarczy dochód podstawowy?
