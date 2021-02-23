@@ -9,11 +9,9 @@ Implementacja rzeczywistości w zapisie blockchain za pomocą istniejących form
 Blockchain jako sposób zapisu transakcji i informacji nie był pierwszym, gdyż od kilkudziesięciu lat są rozwijane różne metody zapisu i strukturyzacji danych.
 Nawet ten dokument przeze mnie pisany jest oparty o rozproszony system zapisu plików nazywany systemem kontroli wersji (plików) Git, w pewnych kwestiach podobny do technologii blockchain.
 
-git: https://pl.wikipedia.org/wiki/Git_(oprogramowanie)
-
-blockchain: https://pl.wikipedia.org/wiki/Blockchain
-
-interpolacja: https://pl.wikipedia.org/wiki/Interpolacja_(matematyka)
++ [git](https://pl.wikipedia.org/wiki/Git_(oprogramowanie))
++ [blockchain](https://pl.wikipedia.org/wiki/Blockchain)
++ [interpolacja](https://pl.wikipedia.org/wiki/Interpolacja_(matematyka))
 
 ## 2
 Agenda 2030 to jedynie czubek tzw. góry lodowej, wszystko zmieni się nie do poznania systemowo, decyzjami politycznymi, tak jak było to dotychczas, ale o ile dziś decydują rządy i korporacje, tak poza 2030 tylko korporacje
@@ -43,7 +41,7 @@ burzenie ładu publicznego poprzez prawo wadliwie ustanawiane i egzekwowane.
 Czym jest System?
 - zespół wzajemnie powiązanych elementów realizujących jako całość założone cele
 
-System: https://pl.wikipedia.org/wiki/System
++ [System](https://pl.wikipedia.org/wiki/System)
 
 Cele systemu nigdy nie były i nie będą zbieżne z pojedynczą jednostką, człowiekiem, który cele zmienia z dnia na dzień, gdyż są zależne od wielu zmiennych:
 + stan jednostki, samopoczucie, zdrowie, emocje, duchowość
@@ -60,11 +58,11 @@ Jak podjąć temat zwiększenia efektywności pozyskiwania dóbr bez udziału ś
 
 Jednostkę miary która jednoznaczna i nie kwestionowalna to czas
 
-Czas: https://pl.wikipedia.org/wiki/Czas
++ [Czas](https://pl.wikipedia.org/wiki/Czas)
 
 Poprzez pomiar  energii następującej w czasie możemy przeliczyć rezultaty, czyli pracę:
 
-Praca W, Moc P, Czas t: https://pl.wikipedia.org/wiki/Moc
++ [Praca W, Moc P, Czas t](https://pl.wikipedia.org/wiki/Moc)
 
     W = P * t
 
