@@ -96,8 +96,9 @@ Praca W jest wynikiem użytej Energii/Mocy w czasie t.
 
 Teoria a rzeczywistosć
 
-Na codzień rozliczamy się za rezultaty pracy lub spędzony czas a nie bezpośrednio za włożoną w wyniki pracy energię.
-Nawet samochód spalając paliwo nie gwarantuje z silnikiem o zmiennej sprawności stale wykonanej pracy przy użyciu tej samej ilości paliwa.
+Na codzień rozliczamy się za rezultaty pracy lub spędzony czas nad nimi.
+Rozliczenie następuje za pośrednie możliwe do zmierzenia bądź oszacowania wartości a nie bezpośrednio za włożoną w wyniki pracy energię.
+Nawet samochód spalający paliwo ma zmienną sprawność w zależności od warunków pracy i otoczenia, dlatego ilość włożonej energii nie jest równa ilości przejchanej drogi i proporcjonalnie spalonej ilości paliwa.
 
 ## 9 
 
