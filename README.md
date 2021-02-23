@@ -100,7 +100,7 @@ Na codzień rozliczamy się za rezultaty pracy lub spędzony czas nad nimi.
 Rozliczenie następuje za pośrednie możliwe do zmierzenia bądź oszacowania wartości a nie bezpośrednio za włożoną w wyniki pracy energię.
 
 Samochód spalający paliwo ma zmienną sprawność w zależności od warunków pracy i otoczenia (np. temperatury),
-dlatego ilość włożonej energii nie jest równa ilości przejchanej drogi i proporcjonalnie spalonej ilości paliwa.
+dlatego ilość włożonej energii nie jest proprocjonalna do ilości przejechanej drogi i spalonej ilości paliwa.
 
 ## 9 
 
