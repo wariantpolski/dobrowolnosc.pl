@@ -105,7 +105,7 @@ Taka podstawowa struktura umożlwia realizację w blockchaine rozliczeń, powinn
 Warto rozróżnić dwie kwestie: prawne i opłatowe*
 + prawo działa na podstawie zawrtych umów
 + opłaty* tylko na zewnątrz
-+ wewnątrz zero opłat systemowych tylko czysty zapis transakcji
++ wewnątrz zero kosztów, opłat* systemowych tylko czysty zapis transakcji
 
 # Pytania
 
