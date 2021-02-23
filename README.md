@@ -3,7 +3,7 @@
 Dobro i Wolność nie mają ceny
 
 # Eksperyment
-Implementacja rzeczywistości w zapisie blockchain za pomocą istniejących form prawnych w Polsce, ale z pominięciem skutków, aby odzwierciedlić długofalowy wpływ blockchain na człowieka i społeczność znajdującą się w poza tym eksperymentem.
+Implementacja rzeczywistości w zapisie blockchain za pomocą istniejących form prawnych w Polsce, aby odzwierciedlić długofalowy wpływ stosowania blockchain na człowieka i społeczność uczestnicząca w tym eksperymencie i funkcjonująca poza nim.
 
 ## 1
 Blockchain jako sposób zapisu transakcji i informacji nie był pierwszym, gdyż nawet ten dokument przeze mnie pisany jest oparty o rozproszony system zapisu plików nazywany git dlatego nie jest wykluczone, ze to klon koncepcyjny interpolowany dla realiów finansowych i twórcy bądź sama inspiracja była zaczątkiem idei blockchain
