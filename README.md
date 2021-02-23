@@ -121,11 +121,13 @@ Przykładowy model.
 Dwie Fundacje dla potrzeb pobierania i przesyłania dalej środków bez opłat rządu w ramach celów statusowych (ekpserymentu), stanowiące proxy
 2 Firmy/Osoby-prywante na początku i końcu 
 
-    1 input do pobierania ze swiata zewnętrznego
-      2 input: organizacja do pobierania pomiędzy organizacjami
-        + transakcja wymiany zapisywana w blockchain: osoba <-> osoba
-      3 output: organizacja do wysyłania pomiędzy organizacjami
-    4 output: do wysyłania do świata zewnętrznego
+    + przelew z konta do organizacji wspierajacej blockchain
+        1 input do pobierania ze swiata zewnętrznego
+          2 input: organizacja do pobierania pomiędzy organizacjami
+            + transakcja wymiany zapisywana w blockchain: osoba <-> osoba
+          3 output: organizacja do wysyłania pomiędzy organizacjami
+        4 output: do wysyłania do świata zewnętrznego
+    + przelew na konto do organizacji spoza blockchain
 
 ## 12
 Cechy modelu:
