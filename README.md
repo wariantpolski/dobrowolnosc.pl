@@ -51,8 +51,8 @@ Bierność to też decyzja
 
 ## 4
 
-Ilość ludzi jest zdeterminowana ich zdolnością do rozmnażania.
-Zdolność ta maleja z roku na rok, na skutek szkodliwych działań organizacji współpracujących z rządami.
+Populacja człowieka jest zdeterminowana jego zdolnością do rozmnażania.
+Zdolność ta w Europie maleja z roku na rok na skutek szkodliwych działań organizacji współpracujących z rządami.
 
 
 ## 5
