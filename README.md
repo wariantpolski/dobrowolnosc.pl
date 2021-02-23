@@ -127,8 +127,9 @@ Dwie Fundacje dla potrzeb pobierania i przesyłania dalej środków bez opłat r
 ## 12
 Cechy modelu:
 
-+ system zewnętrzny używa jednostek, system wewnętrzny zapisu zdarzeń
-+ transfer pomiędzy systemem użwającym jednostek (zewnętrzny) a systemem zapisanym w technologii blockchain
++ system zewnętrzny 1 i 4 używa jednostek, system wewnętrzny 2 i 3 zapisu zdarzeń
++ transfer barterowy pomiędzy jednostkami odbywa sie w wewnętrznym systemie 2 i 3 
++ transfer wartości skalarnych odbywa się pomiędzy systemem użwającym jednostek 1 i 4 (zewnętrzny) a systemem globalnym poza tą strukturą, tak by była ciągłość wymiany i by system blockchain mógł angażować coraz więcej ludzi niezależnie od lokalizacji na świecie
 + elementy 2 i 3 (wewnętrzne) przeprowadzają wymianę w systemie blockchain
 + elementy 1 i 4 wymagają danych opartych o wartości (waluty) przypisanej do konkretnego człowieka na zewnątrz systemu
 + elementy 2 i 3 mogą być wielokrotnie powielane w czasie co da możliwość rozrastania się systemu niezależnie od miejsca
