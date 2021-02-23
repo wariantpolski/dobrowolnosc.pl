@@ -18,6 +18,9 @@ Agenda 2030 to jedynie czubek tzw. góry lodowej, wszystko zmieni się nie do po
 
 
 ## 3
++ [System wartości – Encyklopedia Zarządzania](https://mfiles.pl/pl/index.php/System_warto%C5%9Bci)
++ [Prawo natury – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Prawo_natury)
+
 + Wartości są ideą, nie mają miary. 
 + 99% prawdy to kłamstwo
 + 99% wolności to niewola
