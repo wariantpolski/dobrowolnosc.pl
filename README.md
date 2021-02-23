@@ -7,8 +7,11 @@ Implementacja rzeczywistości w zapisie blockchain za pomocą istniejących form
 
 ## 1
 Blockchain jako sposób zapisu transakcji i informacji nie był pierwszym, gdyż nawet ten dokument przeze mnie pisany jest oparty o rozproszony system zapisu plików nazywany git dlatego nie jest wykluczone, ze to klon koncepcyjny interpolowany dla realiów finansowych i twórcy bądź sama inspiracja była zaczątkiem idei blockchain
+
 git: https://pl.wikipedia.org/wiki/Git_(oprogramowanie)
+
 blockchain: https://pl.wikipedia.org/wiki/Blockchain
+
 interpolacja: https://pl.wikipedia.org/wiki/Interpolacja_(matematyka)
 
 ## 2
@@ -38,6 +41,7 @@ burzenie ładu publicznego poprzez prawo wadliwie ustanawiane i egzekwowane.
 
 Czym jest System?
 - zespół wzajemnie powiązanych elementów realizujących jako całość założone cele
+
 System: https://pl.wikipedia.org/wiki/System
 
 Cele systemu nigdy nie były i nie będą zbieżne z pojedynczą jednostką, człowiekiem, który cele zmienia z dnia na dzień, gdyż są zależne od wielu zmiennych:
@@ -54,9 +58,11 @@ Jak podjąć temat zwiększenia efektywności pozyskiwania dóbr bez udziału ś
 ## 8
 
 Jednostkę miary która jednoznaczna i nie kwestionowalna to czas
-czas: https://pl.wikipedia.org/wiki/Czas
+
+Czas: https://pl.wikipedia.org/wiki/Czas
 
 Poprzez pomiar  energii następującej w czasie możemy przeliczyć rezultaty, czyli pracę:
+
 Praca W, Moc P, Czas t: https://pl.wikipedia.org/wiki/Moc
 
     W = P * t
