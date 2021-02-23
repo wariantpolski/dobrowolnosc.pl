@@ -22,7 +22,8 @@ Agenda 2030 to jedynie czubek tzw. góry lodowej, wszystko zmieni się nie do po
 Wartości są ideą, nie mają miary. 
 + 99% prawdy to kłamstwo
 + 99% wolności to niewola
-+ Bierność to też decyzja
+
+Bierność to też decyzja
 
 
 + [System wartości – Encyklopedia Zarządzania](https://mfiles.pl/pl/index.php/System_warto%C5%9Bci)
