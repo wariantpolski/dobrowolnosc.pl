@@ -107,20 +107,20 @@ dlatego ilość włożonej energii nie jest proprocjonalna do ilości przejechan
 ## 9 
 
 Formy umowy pozwalaja na inne sposoby oceniania rezultaty niezależnie od pracy włożonej i czasu na to przeznoczaonego.
-Samo istnienie potencjału/energii nie jest o-opłatowane*, gdyż musi nastąpić w czasie
-np rozliczenia roczne zakładają zbiorcze rezultaty i na tej podstawie można o-opłatować* prawie wszystko.
+Samo istnienie potencjału/energii nie jest opłatowane*, gdyż musi nastąpić w czasie
+np rozliczenia roczne zakładają zbiorcze rezultaty i na tej podstawie można opłatować* prawie wszystko.
 
 
 ## 10
 
-Rozwiązania pozwalajace na przeprowadzenie eksperymentu powinny uniezależnić osoby uczetniczące w eksperymencie od skutków opłatowych*, by wyniki nie był zachwiane poprzez zmienną politykę rządów.
+Rozwiązania prawne wdrożone w całym ekosystemie powinny pomóc w przeprowadzeniu eksperymentu bez skutków opłatowych*, by wyniki nie był zachwiane poprzez zmienną politykę rządów, które coraz częściej zmieniają warunki otoczenia i wcale nie zamierzają stabilizować prawa a jesli tak to z korzyścią dla siebie narzucając inne opłaty* np. od obrotu jako dodatkowe opłaty* a nie alternatywne.
 
 Warto rozważyć obecny stan prawny majacy wpływ na strukturę organizacyjną oraz na sposób rozliczeń.
 
 ## 11
 Przykładowy model.
 
-Dwie Fundacje dla potrzeb pobierania i przesyłania dalej środków bez opłat rządu w ramach celów statusowych (ekpserymentu), stanowiące proxy
+Dwie Fundacje dla potrzeb pobierania i przesyłania dalej środków bez opłat* rządu w ramach celów statusowych (ekpserymentu), stanowiące proxy
 2 Firmy/Osoby-prywante na początku i końcu 
 
     + przelew z konta do organizacji wspierajacej blockchain
