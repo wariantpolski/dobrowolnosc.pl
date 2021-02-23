@@ -82,7 +82,7 @@ Rozwiązanie pozwalajace na przeprowadzenie eksperymentu powinny selektywnie uni
 
 Warto rozważyć obecny stan prawny majacy wpływ na strukturę organizacyjną oraz na sposób rozliczeń.
 
-# 11
+## 11
 Przykładowy model.
 
 Dwie Fundacje dla potrzeb pobierania i przesyłania dalej środków bez opłat rządu w ramach celów statusowych (ekpserymentu), stanowiące proxy
@@ -93,9 +93,9 @@ Dwie Fundacje dla potrzeb pobierania i przesyłania dalej środków bez opłat r
       3 output: organizacja do wysyłania pomiędzy organizacjami
     4 output: do wysyłania do świata zewnętrznego
 
-# 12
+## 12
+Cechy modelu:
 
-Cechy modelu
 + system zewnętrzny używa jednostek, system wewnętrzny zapisu zdarzeń
 + transfer pomiędzy systemem użwającym jednostek (zewnętrzny) a systemem zapisanym w technologii blockchain (wewnętrzny )wymaga konwersji i przypisania do konkretnego człowieka na zewnątrz systemu, jednak wewnątrz może być dowolnie modyfikowany
 + elementy 2 i 3 mogą być wielokrotnie powielane
