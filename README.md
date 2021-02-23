@@ -2,7 +2,7 @@
 
 Dobro i Wolność nie mają ceny
 
-# eksperyment społeczny: blockchain
+# Eksperyment społeczny: blockchain
 Implementacja rzeczywistości w zapisie blockchain za pomocą istniejących form prawnych w Polsce, aby odzwierciedlić długofalowy wpływ stosowania blockchain na człowieka i społeczność uczestnicząca w tym eksperymencie i funkcjonująca poza nim.
 
 ## 1
