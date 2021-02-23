@@ -141,6 +141,13 @@ Warto rozróżnić dwie kwestie: prawne i opłatowe*
 + opłaty* tylko na zewnątrz
 + wewnątrz zero kosztów, opłat* systemowych tylko czysty zapis transakcji
 
+## 13
+Proces wchodzenia i wychodzenie jednostek z systemu (do opracowania)
+
+## 14
+Proces zwiększania i zmniejszania jednostek w systemie wewnętrznym i zewnętrznym (do opracowania)
+
+
 # Pytania
 
 inflacja wartości subiektywnej (zapisanych zdarzeń) i obiektywnej (jednostek monetarnych) tego systemu,
