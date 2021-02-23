@@ -107,7 +107,7 @@ Warto rozróżnić dwie kwestie: prawne i opłatowe*
 + opłaty* tylko na zewnątrz
 + wewnątrz zero opłat systemowych tylko czysty zapis transakcji
 
-## Pytania
+# Pytania
 
 inflacja wartości subiektywnej (zapisanych zdarzeń) i obiektywnej (jednostek monetarnych) tego systemu,
 + czy i kiedy była by możliwa?
