@@ -79,6 +79,7 @@ Obecnie tocząca się wojna rodzi konflikty moralne z powodu siłowych rozwiąza
 Rządy łamią prawo na prędce ustanawiane, burząc zaufanie i ład, egzekwując wadliwe prawo wprowadzają chaos.
 
 ## 6
+System
 
 Czym jest obecnie funkcjonujący system i jakie są jego cele?
 - zespół wzajemnie powiązanych elementów realizujących jako całość założone cele
