@@ -4,22 +4,30 @@ Dobro i Wolność nie mają ceny
 
 # Eksperyment społeczny: blockchain
 Implementacja rzeczywistości w zapisie blockchain za pomocą istniejących form prawnych w Polsce.
-Poprzez ten długofalowy eksperyment zbadamy wpływ stosowania blockchain na człowieka.
-Wyniki pozwolą na ocenę jaki wpływ ma blockchain w praktyce na całą społeczność.
 
 ## Wstęp
 
-Trudno się nie zgodzić, że obecny stan prawny w Polsce jest niestabilny.
-- Jakie rozwiązanie pozwoli zniwelować szkodliwe skutki polityki rządów?
-
 ## 1
+Powód
+
+Trudno się nie zgodzić, że obecny stan prawny w Polsce jest niestabilny.
+Pytanie jakie się rodzi to: 
++ Jakie rozwiązanie pozwoli zniwelować szkodliwe skutki polityki rządów?
+
+
+
+## 2
+Rozwiązanie
+
+Poprzez ten długofalowy eksperyment zbadamy wpływ stosowania blockchain na człowieka.
+Wyniki pozwolą na ocenę jaki wpływ ma blockchain w praktyce na całą społeczność.
 
 Eksperyment da szansę wypracowania rozwiązania w praktyce.
 Będzie możliwe stworzenie proxy, warstwy stabilizującej, mogącej znieść wiele zmian, które mają miejsce i czekają nas na skutek szkodliwego działania rządów.
 
 ## 2
+Agenda 2030
 
-Agenda 2030 to jedynie czubek tzw. góry lodowej.
 O otaczającej nas rzeczywistości decydują rządy oraz coraz częściej korporacje poprzez lobbing.
 
 To jaki system przeważa nie zależy od samych zapisów prawa a od jego egzekwowania zgodnie a nie ponad prawem.
@@ -30,6 +38,7 @@ Agenda 2030 to nie inicjatywa rządów a ludzi korporacji a mimo to jest impleme
 Rezultaty działań agendy 2030 dotyczą całego globu i nie jest możliwe jej powstrzymanie, dlatego tym bardziej warto zrozumieć już dziś rezultaty za tą agendą idące.
 
 ## 3
+Pytania
 
 Warto poznać w praktyce rezultaty przeprowadzając opisywany w tym dokumencie eksperyment, mając mozłiwość przekonujać się czym jest ta agenda:
 + czy agenda 2030 uchroni nas przed skutkami tego z czym oficjalnie mówi, że walczy?
@@ -46,6 +55,7 @@ Warto poznać w praktyce rezultaty przeprowadzając opisywany w tym dokumencie e
 
 
 ## 4
+Wartości
 
 Wartości są ideą, nie mają miary. 
 + 99% prawdy to kłamstwo
@@ -59,6 +69,7 @@ Bierność to też decyzja
 
 
 ## 5
+Obywatel i rząd
 
 Populacja człowieka jest zdeterminowana jego zdolnością do rozmnażania.
 Zdolność ta w Europie maleja z roku na rok na skutek szkodliwych działań organizacji współpracujących z rządami.
