@@ -3,12 +3,17 @@
 Dobro i Wolność nie mają ceny
 
 # Eksperyment społeczny: blockchain
-Implementacja rzeczywistości w zapisie blockchain za pomocą istniejących form prawnych w Polsce, aby odzwierciedlić długofalowy wpływ stosowania blockchain na człowieka i społeczność uczestnicząca w tym eksperymencie i funkcjonująca poza nim.
+Implementacja rzeczywistości w zapisie blockchain za pomocą istniejących form prawnych w Polsce.
+Poprzez ten długofalowy eksperyment zbadamy wpływ stosowania blockchain na człowieka.
+Wyniki pozwolą na ocenę jaki wpływ ma blockchain w praktyce na całą społeczność.
 
 ## Wstęp
 
-Obecny stan prawny jest niestabilny, w takich warunkach wydaje się oczywiste poszukiwanie rozwiązania mogącego niwelować szkodliwe skutki polityki rządów.
-Przy okazji eksperymentu możliwe będzie stworzenie proxy, warstwy stabilizującej, mogącej znieść wiele zmian, które mają miejsce na skutek szkodliwego działania rządów.
+Trudno się nie zgodzić, że obecny stan prawny w Polsce jest niestabilny.
+- Jakie rozwiązanie pozwoli zniwelować szkodliwe skutki polityki rządów?
+
+Eksperyment da szansę wypracowania rozwiązania w praktyce.
+Będzie możliwe stworzenie proxy, warstwy stabilizującej, mogącej znieść wiele zmian, które mają miejsce i czekają nas na skutek szkodliwego działania rządów.
 
 ## 1
 Agenda 2030 to jedynie czubek tzw. góry lodowej, wszystko zmieni się nie do poznania systemowo, decyzjami politycznymi, tak jak było to dotychczas, ale o ile dziś  decydują (czasem) rządy i (częściej poprzez lobbing) korporacje.
