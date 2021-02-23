@@ -130,8 +130,8 @@ dlatego ilość włożonej energii nie jest proprocjonalna do ilości przejechan
 ## 3
 
 Formy umowy pozwalaja na inne sposoby oceniania rezultaty niezależnie od pracy włożonej i czasu na to przeznaczonego.
-Samo istnienie potencjału/energii nie jest opłatowane**, gdyż musi nastąpić w czasie
-np rozliczenia roczne zakładają zbiorcze rezultaty i na tej podstawie można opłatować** prawie wszystko.
+Samo istnienie potencjału/energii nie jest opłatowane**
+Sam fakt zaistnienia zdarzenia ma różne konteksty
 
 
 ## 4
