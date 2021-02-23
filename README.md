@@ -6,8 +6,8 @@ Dobro i Wolność nie mają ceny
 Implementacja rzeczywistości w zapisie blockchain za pomocą istniejących form prawnych w Polsce, aby odzwierciedlić długofalowy wpływ stosowania blockchain na człowieka i społeczność uczestnicząca w tym eksperymencie i funkcjonująca poza nim.
 
 ## 1
-Blockchain jako sposób zapisu transakcji i informacji nie był pierwszym, gdyż nawet ten dokument przeze mnie pisany jest oparty o rozproszony system zapisu plików nazywany systemem kontroli wersji (plików) Git.
-Nie można wykluczyć, że to klon koncepcyjny interpolowany dla realiów finansowych i twórcy bądź sama inspiracja była zaczątkiem idei blockchain.
+Blockchain jako sposób zapisu transakcji i informacji nie był pierwszym, gdyż od kilkudziesięciu lat są rozwijane różne metody zapisu i strukturyzacji danych.
+Nawet ten dokument przeze mnie pisany jest oparty o rozproszony system zapisu plików nazywany systemem kontroli wersji (plików) Git, w pewnych kwestiach podobny do technologii blockchain.
 
 git: https://pl.wikipedia.org/wiki/Git_(oprogramowanie)
 
