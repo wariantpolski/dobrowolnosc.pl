@@ -8,6 +8,7 @@ Implementacja rzeczywistości w zapisie blockchain za pomocą istniejących form
 ## 1
 Blockchain jako sposób zapisu transakcji i informacji nie był pierwszym, gdyż nawet ten dokument przeze mnie pisany jest oparty o rozproszony system zapisu plików nazywany git dlatego nie jest wykluczone, ze to klon koncepcyjny interpolowany dla realiów finansowych i twórcy bądź sama inspiracja była zaczątkiem idei blockchain
 
+
 git: https://pl.wikipedia.org/wiki/Git_(oprogramowanie)
 
 blockchain: https://pl.wikipedia.org/wiki/Blockchain
