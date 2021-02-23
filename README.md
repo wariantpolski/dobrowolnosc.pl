@@ -151,7 +151,7 @@ Proces wchodzenia i wychodzenie jednostek z systemu (do opracowania)
 Proces zwiększania i zmniejszania jednostek w systemie wewnętrznym i zewnętrznym (do opracowania)
 
 
-# Dla kogo jest ten eksperyment?
+# Dla kogo może być przydatny eksperyment oraz wnioski po jego przeprowadzeniu
 
 + Dla każdego chcącego sprawdzić jakie korzyści i wady wynikają z rozliczania człowieka z innych metod niż gotówkowe.
 + Dla entuzjastów technologii blockchain chcących pogłębić swoją wiedzę i doświadczyć tego co czeka ich za dekadę.
