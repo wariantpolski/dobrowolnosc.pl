@@ -134,7 +134,7 @@ Cechy modelu:
 + transfer barterowy pomiędzy jednostkami odbywa sie w wewnętrznym systemie 2 i 3 
 + transfer wartości skalarnych odbywa się pomiędzy systemem użwającym jednostek 1 i 4 (zewnętrzny) a systemem globalnym poza tą strukturą, tak by była ciągłość wymiany i by system blockchain mógł angażować coraz więcej ludzi niezależnie od lokalizacji na świecie
 + elementy 2 i 3 (wewnętrzne) przeprowadzają wymianę w systemie blockchain
-+ elementy 1 i 4 wymagają danych opartych o wartości (waluty) przypisanej do konkretnego człowieka na zewnątrz systemu
++ elementy 1 i 4 wymagają danych opartych o wartości (waluty) przypisanej do konta bankowego konkretnego człowieka/organizacji na zewnątrz systemu
 + elementy 2 i 3 mogą być wielokrotnie powielane w czasie co da możliwość rozrastania się systemu niezależnie od miejsca
 
 Taka podstawowa struktura umożlwia realizację w blockchaine rozliczeń, powinna uniezależnić jednostki funkcjonujące w jej systemie od systemu zewnętrznego
