@@ -28,7 +28,8 @@ Warto poznać w praktyce rezultaty przeprowadzając eksperyment, przekonując si
 + Jak wzrosną koszty życia i energii oraz surowców?
 + jak zmieni się ilość ludności, starszych osób?
 + Jakie w praktyce będzie miała prawa jednostka, o czym będzie mogła decydować ?
-+ do czego wystarczy dochód podstawowy?
++ Do czego wystarczy dochód podstawowy?
++ Od czego będzie uzależniony dochód podstawowy i czy będzie można funkcjonować bez niego?
 + jak wpłynie to na zdrowie i opiekę medyczną?
 + Jak zmieni się ilość niewolników na świecie oraz ilość obozów koncentracyjnych?
 
