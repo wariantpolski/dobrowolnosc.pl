@@ -66,13 +66,17 @@ Jednostkę miary która jednoznaczna i nie kwestionowalna to czas
 
 + [Czas](https://pl.wikipedia.org/wiki/Czas)
 
-Poprzez pomiar  energii następującej w czasie możemy przeliczyć rezultaty, czyli pracę:
+Poprzez pomiar energii następującej w czasie możemy wyliczyć rezultaty:
 
 + [Praca W, Moc P, Czas t](https://pl.wikipedia.org/wiki/Moc)
 
     W = P * t
 
-Za którą obecnie rozliczamy się np za godziny lub za rezultaty pracy
+Praca W jest wynikiem użytej Energii/Mocy w czasie t.
+
+Teoria a rzeczywistosć
+Na codzień rozliczamy się za rezultaty Pracy lub czas a nie bezpośrednio za przeznaczoną na to energię,
+nawet samochód spalając paliwo nie gwarantuje z silnikiem o zmiennej sprawności stale wykonanej pracy przy użyciu tej samej ilości paliwa.
 
 ## 9 
 
