@@ -5,7 +5,7 @@ Dobro i Wolność nie mają ceny
 # Eksperyment społeczny: blockchain
 Implementacja rzeczywistości w zapisie blockchain za pomocą istniejących form prawnych w Polsce.
 
-## Wstęp
+# Wstęp
 
 ## 1
 Powód
@@ -24,6 +24,8 @@ Wyniki pozwolą na ocenę jaki wpływ ma blockchain w praktyce na całą społec
 
 Eksperyment da szansę wypracowania rozwiązania w praktyce.
 Będzie możliwe stworzenie proxy, warstwy stabilizującej, mogącej znieść wiele zmian, które mają miejsce i czekają nas na skutek szkodliwego działania rządów.
+
+# Tło
 
 ## 2
 Agenda 2030
@@ -93,7 +95,9 @@ Cele systemu nigdy nie były i nie będą zbieżne z pojedynczą jednostką, cz�
 + determinacja wynikająca z powyższych
 
 
-# Ekosystem Blockchain
+# Koncepcja ekosystemu z implementacją technologii blockchain
+
+![ecosystem-blockchain.png](ecosystem-blockchain.png)
 
 ## 1
 Blockchain jako sposób zapisu transakcji i informacji nie był pierwszym, gdyż od kilkudziesięciu lat są rozwijane różne metody zapisu i strukturyzacji danych.
