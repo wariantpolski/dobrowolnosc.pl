@@ -215,13 +215,13 @@ Ten model jest przeznaczony dla osób prywatnych, model dla firm byłby uproszcz
 
 Dwie Fundacje dla potrzeb pobierania i przesyłania środków bez opłat* pomiędzy użytkownikami w ramach celów statusowych (ekpserymentu).
 
-    + przelew wchodzacy od osoby prywatnej/prawnej
-        1 spółka: księguje przychód
-          2 fundacja: otrzymuje darowiznę
-            + transakcja wymiany zapisywana w blockchain: osoba <-> osoba
-          3 fundacja: wysyła darowiznę do innej fundacji lub firmy
-        4 spółka: otrzymuje pieniadze od firmy lub fundacji
-    + przelew wychodzący do osoby prywatnej/prawnej
+    + przelew wchodzacy od osoby prawnej
+        1 spółka rezydencji: księguje przychód
+          2 spółka estońska: otrzymuje wpłatę z kraju rezydencji
+            + transakcja wymiany zapisywana w blockchain: firma <-> firma
+          3 spółka estońska: wysyła przelew do innej firmy
+        4 spółka rezydencji: otrzymuje pieniadze od firmy
+    + przelew wychodzący do osoby prawnej
 
 
 
