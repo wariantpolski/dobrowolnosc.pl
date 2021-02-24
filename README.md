@@ -7,17 +7,14 @@ Implementacja rzeczywistości w zapisie blockchain za pomocą istniejących form
 
 # Wstęp
 
-## 1
-Powód
+## Powód
 
 Trudno się nie zgodzić, że obecny stan prawny w Polsce jest niestabilny.
 Pytanie jakie się rodzi to: 
 + Jakie rozwiązanie pozwoli zniwelować szkodliwe skutki polityki rządów?
 
 
-
-## 2
-Rozwiązanie
+## Rozwiązanie
 
 Poprzez ten długofalowy eksperyment zbadamy wpływ stosowania blockchain na człowieka.
 Wyniki pozwolą na ocenę jaki wpływ ma blockchain w praktyce na całą społeczność.
