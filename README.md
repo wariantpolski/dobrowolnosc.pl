@@ -17,7 +17,9 @@ Pytanie jakie się rodzi to:
 ## Rozwiązanie
 
 Eksperyment jest szansą wypracowania rozwiązania poprzez zastosowanie technologii blockchain.
+
 Wyniki pozwolą na ocenę wpływu technologii blockchain na całą społeczność.
+
 Rezultatem eksperymentu ma być wypracowanie warstwy stabilizującej obecne problemy prawne i społeczne.
 
 
