@@ -149,18 +149,18 @@ Warto rozważyć obecny stan prawny majacy wpływ na strukturę organizacyjną o
 # Model
 ![ecosystem-blockchain.png](ecosystem-blockchain.png)
 
-## Przykładowy model.
+## Przykładowy model
+Ten model jest przeznaczony dla osób prywatnych, model dla firm byłby uproszczony i nie zawierałby fundacji.
 
-Dwie Fundacje dla potrzeb pobierania i przesyłania dalej środków bez opłat* rządu w ramach celów statusowych (ekpserymentu), stanowiące proxy
-2 Firmy/Osoby-prywante na początku i końcu 
+Dwie Fundacje dla potrzeb pobierania i przesyłania środków bez opłat* pomiędzy użytkownikami w ramach celów statusowych (ekpserymentu).
 
-    + przelew do organizacji
-        1 input do pobierania ze swiata zewnętrznego
-          2 input: organizacja do pobierania pomiędzy organizacjami
+    + przelew wchodzacy od osoby prywatnej/prawnej
+        1 spółka: księguje przychód
+          2 fundacja: otrzymuje darowiznę
             + transakcja wymiany zapisywana w blockchain: osoba <-> osoba
-          3 output: organizacja do wysyłania pomiędzy organizacjami
-        4 output: do wysyłania do świata zewnętrznego
-    + przelew na zewnątrz
+          3 fundacja: wysyła darowiznę do innej fundacji lub firmy
+        4 spółka: otrzymuje pieniadze od firmy lub fundacji
+    + przelew wychodzący do osoby prywatnej/prawnej
 
 
 ## Cechy modelu:
