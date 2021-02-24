@@ -27,16 +27,19 @@ Rezultatem eksperymentu ma być wypracowanie warstwy stabilizującej obecne prob
 
 ## Agenda 2030
 
-O otaczającej nas rzeczywistości decydują rządy oraz coraz częściej korporacje poprzez lobbing.
+Z obserwacji wydarzeń w ostatnim roku 2020 łatwo można zauważyć pewną specyfikę obecnych czasów.
+Istota demokracji polegająca na rządach ludu choćby w referendach nie jest realizowana.
++ [Demokracja](https://pl.wikipedia.org/wiki/Demokracja)
+
 
 To jaki system przeważa nie zależy od samych zapisów prawa a od jego egzekwowania zgodnie a nie ponad prawem.
 Niestety wielu odczuło w czasie Lockdown'u, że prawo silniejszego to najbardziej aktualne prawo.
 
-Agenda 2030 to nie inicjatywa rządów a ludzi korporacji a mimo to jest implementowana w praktyce przez pojedyncze miasta bez pytania o zgodę ludności w referendach.
+Agenda 2030 to nie inicjatywa rządów a ludzi korporacji wpływających na zmiany na poziomie kraju poprzez lobbing.
 
-Rezultaty działań agendy 2030 dotyczą całego globu i nie jest możliwe jej powstrzymanie, dlatego tym bardziej warto zrozumieć już dziś rezultaty za tą agendą idące.
+Rezultaty działań Agendy 2030 dotyczą całego globu i nie jest możliwe jej powstrzymanie, dlatego tym bardziej warto zrozumieć już dziś rezultaty tego planu na najbliższą dekadę.
 
-## Pytania o przyszłość
+## Pytania
 
 Warto poznać w praktyce rezultaty przeprowadzając opisywany w tym dokumencie eksperyment, mając mozłiwość przekonujać się czym jest ta agenda:
 + czy agenda 2030 uchroni nas przed skutkami tego z czym oficjalnie mówi, że walczy?
