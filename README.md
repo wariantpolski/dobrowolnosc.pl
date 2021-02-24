@@ -203,7 +203,20 @@ Warto rozróżnić dwie kwestie: prawne i opłatowe*
 + Jak podjąć temat zwiększenia efektywności pozyskiwania dóbr bez udziału świata finansów przygotowanych przez (lokalny i globalny) system?
 
 
-# Osoba do kontaktu
+# Autor specyfikacji
 
 Tomasz Sapletta
+
+
+Poniżej zamieszczam odpowiedź na pytanie, Dlaczego warto to zrobić w Polsce?
+
+na dzień dzisiejszy trzeba się odnaleźć w prawnym bałaganie w Polsce, gdzie łatwiej przeprowadzić eksperyment z punktu widzenia znajomości kultury i łatwiejszego dostępu do specjalistów korzystających z alternatywnych rozwiązań.
+
+Polacy z reguły szukają korzystnych rozwiązań poza granicami, świadczy o tym choćby przerejstrowywanie firm z Polski do UK i innych krajów świata.
+
+Ten ekosystem do rozliczeń ma być dodatkową warstwa abstrakcji wykorzystując zastane środowisko. 
+Ma być mostem pomiędzy tym co jest teraz i będzie po resecie i dekadę dalej.
+Wszelkie nagłe zmiany odbijają się czkawką, dlatego w tym ekosystemie blockchain widzę możliwość stabilizacji zewnętrznych skutków prawnych i społecznych.
+
+
 
