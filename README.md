@@ -146,7 +146,8 @@ Rozwiązania prawne wdrożone w całym ekosystemie powinny pomóc w przeprowadze
 Warto rozważyć obecny stan prawny majacy wpływ na strukturę organizacyjną oraz na sposób rozliczeń.
 
 
-# Model
+# Model dla osób prywatnych
+
 ![ecosystem-blockchain.png](ecosystem-blockchain.png)
 
 ## Przykładowy model
@@ -203,6 +204,25 @@ Na podstawie transakcji opłacanej z góry
 
 
 ## Proces zwiększania i zmniejszania ilości jednostek w systemie wewnętrznym i zewnętrznym (do opracowania)
+
+
+# Model dla osób prawnych
+
+![ecosystem-blockchain.png](ecosystem-blockchain-2.png)
+
+## Przykładowy model
+Ten model jest przeznaczony dla osób prywatnych, model dla firm byłby uproszczony i nie zawierałby fundacji.
+
+Dwie Fundacje dla potrzeb pobierania i przesyłania środków bez opłat* pomiędzy użytkownikami w ramach celów statusowych (ekpserymentu).
+
+    + przelew wchodzacy od osoby prywatnej/prawnej
+        1 spółka: księguje przychód
+          2 fundacja: otrzymuje darowiznę
+            + transakcja wymiany zapisywana w blockchain: osoba <-> osoba
+          3 fundacja: wysyła darowiznę do innej fundacji lub firmy
+        4 spółka: otrzymuje pieniadze od firmy lub fundacji
+    + przelew wychodzący do osoby prywatnej/prawnej
+
 
 
 # Podsumowanie
