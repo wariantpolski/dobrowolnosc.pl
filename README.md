@@ -16,11 +16,10 @@ Pytanie jakie się rodzi to:
 
 ## Rozwiązanie
 
-Poprzez ten długofalowy eksperyment zbadamy wpływ stosowania blockchain na człowieka.
-Wyniki pozwolą na ocenę jaki wpływ ma blockchain w praktyce na całą społeczność.
+Eksperyment jest szansą wypracowania rozwiązania poprzez zastosowanie technologii blockchain.
+Wyniki pozwolą na ocenę wpływu technologii blockchain na całą społeczność.
+Rezultatem eksperymentu ma być wypracowanie warstwy stabilizującej obecne problemy prawne i społeczne.
 
-Eksperyment da szansę wypracowania rozwiązania w praktyce.
-Będzie możliwe stworzenie proxy, warstwy stabilizującej, mogącej znieść wiele zmian, które mają miejsce i czekają nas na skutek szkodliwego działania rządów.
 
 # Tło
 
