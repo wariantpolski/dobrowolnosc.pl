@@ -95,9 +95,8 @@ Cele systemu nigdy nie były i nie będą zbieżne z pojedynczą jednostką, cz�
 + determinacja wynikająca z powyższych
 
 
-# Koncepcja ekosystemu z implementacją technologii blockchain
 
-![ecosystem-blockchain.png](ecosystem-blockchain.png)
+# Technologia
 
 ## 1
 Blockchain jako sposób zapisu transakcji i informacji nie był pierwszym, gdyż od kilkudziesięciu lat są rozwijane różne metody zapisu i strukturyzacji danych.
@@ -131,20 +130,27 @@ Rozliczenie następuje za pośrednie możliwe do zmierzenia bądź oszacowania w
 Samochód spalający paliwo ma zmienną sprawność w zależności od warunków pracy i otoczenia (np. temperatury),
 dlatego ilość włożonej energii nie jest proprocjonalna do ilości przejechanej drogi i spalonej ilości paliwa.
 
-## 3
+
+# Aspekty prawne
+
+## 1
 
 Formy umowy pozwalaja na inne sposoby oceniania rezultaty niezależnie od pracy włożonej i czasu na to przeznaczonego.
 Samo istnienie potencjału/energii nie jest opłatowane**
 Sam fakt zaistnienia zdarzenia ma różne konteksty
 
 
-## 4
+## 2
 
 Rozwiązania prawne wdrożone w całym ekosystemie powinny pomóc w przeprowadzeniu eksperymentu bez skutków opłatowych*, by wyniki nie był zachwiane poprzez zmienną politykę rządów, które coraz częściej zmieniają warunki otoczenia i wcale nie zamierzają stabilizować prawa a jesli tak to z korzyścią dla siebie narzucając inne opłaty* np. od obrotu jako dodatkowe opłaty* a nie alternatywne.
 
 Warto rozważyć obecny stan prawny majacy wpływ na strukturę organizacyjną oraz na sposób rozliczeń.
 
-## 5
+
+# Model
+![ecosystem-blockchain.png](ecosystem-blockchain.png)
+
+## 1
 Przykładowy model.
 
 Dwie Fundacje dla potrzeb pobierania i przesyłania dalej środków bez opłat* rządu w ramach celów statusowych (ekpserymentu), stanowiące proxy
@@ -159,7 +165,7 @@ Dwie Fundacje dla potrzeb pobierania i przesyłania dalej środków bez opłat* 
     + przelew na konto do organizacji spoza blockchain
 
 
-## 6
+## 2
 Cechy modelu:
 
 + system zewnętrzny 1 i 4 używa jednostek, system wewnętrzny 2 i 3 zapisu zdarzeń
@@ -177,12 +183,13 @@ Warto rozróżnić dwie kwestie: prawne i opłatowe*
 + wewnątrz zero kosztów, opłat* systemowych tylko czysty zapis transakcji
 
 
-## 7
+## 3
 Proces wchodzenia i wychodzenie jednostek z systemu (do opracowania)
 
 
-## 8
+## 4
 Proces zwiększania i zmniejszania jednostek w systemie wewnętrznym i zewnętrznym (do opracowania)
+
 
 # Podsumowanie
 
@@ -206,7 +213,7 @@ Proces zwiększania i zmniejszania jednostek w systemie wewnętrznym i zewnętrz
 + Jak podjąć temat zwiększenia efektywności pozyskiwania dóbr bez udziału świata finansów przygotowanych przez (lokalny i globalny) system?
 
 
-## Osoba do kontaktu
+# Osoba do kontaktu
 
 Tomasz Sapletta
 
