@@ -10,8 +10,10 @@ Implementacja rzeczywistości w zapisie blockchain za pomocą istniejących form
 ## Powód
 
 Trudno się nie zgodzić, że obecny stan prawny w Polsce jest niestabilny.
-Pytanie jakie się rodzi to: 
-+ Jakie rozwiązanie pozwoli zniwelować szkodliwe skutki polityki rządów?
+
+Pytanie jakie się rodzi to:
+
++ Jakie rozwiązanie pozwoli zniwelować szkodliwe skutki polityki rządu?
 
 
 ## Rozwiązanie
@@ -163,12 +165,15 @@ Dwie Fundacje dla potrzeb pobierania i przesyłania dalej środków bez opłat* 
 
 ## Cechy modelu:
 
-+ system zewnętrzny 1 i 4 używa jednostek, system wewnętrzny 2 i 3 zapisu zdarzeń
-+ transfer barterowy pomiędzy jednostkami odbywa sie w wewnętrznym systemie 2 i 3 
-+ transfer wartości skalarnych odbywa się pomiędzy systemem użwającym jednostek 1 i 4 (zewnętrzny) a systemem globalnym poza tą strukturą, tak by była ciągłość wymiany i by system blockchain mógł angażować coraz więcej ludzi niezależnie od lokalizacji na świecie
-+ elementy 2 i 3 (wewnętrzne) przeprowadzają wymianę w systemie blockchain
-+ elementy 1 i 4 wymagają danych opartych o wartości (waluty) przypisanej do konta bankowego konkretnego człowieka/organizacji na zewnątrz systemu
+Przeznacznie
++ system zewnętrzny 1 i 4 używa jednostek monetarnych
++ system wewnętrzny 2 i 3 zapisu zdarzeń w technologii blockchain
 + elementy 2 i 3 mogą być wielokrotnie powielane w czasie co da możliwość rozrastania się systemu niezależnie od miejsca
+
+Transfery
++ transfer barterowy pomiędzy jednostkami odbywa sie w wewnętrznym systemie 2 i 3 
++ transfer wartości skalarnych odbywa się pomiędzy systemem użwającym jednostek 1 i 4 (zewnętrzny) a systemem globalnym poza tą strukturą
+    + tak by była ciągłość wymiany i by system blockchain mógł angażować coraz więcej ludzi niezależnie od lokalizacji na świecie
 
 Taka podstawowa struktura umożlwia realizację w blockchaine rozliczeń, powinna uniezależnić jednostki funkcjonujące w jej systemie od systemu zewnętrznego
 
@@ -176,6 +181,22 @@ Warto rozróżnić dwie kwestie: prawne i opłatowe*
 + prawo działa na podstawie zawartych umów
 + opłaty* tylko na zewnątrz
 + wewnątrz zero kosztów, opłat* systemowych tylko czysty zapis transakcji
+
+# Zasada działania 
+
+## transakcja wymiany
+
+Na podstawie transakcji opłacanej z góry
++ dwie osoby chcą dokonać transakcji wymiany, np usługa korepetycji
++ Korepetytor inicjuje transakcje
++ Uczeń ją akceptuje i wpłaca na kontę firmy [element 1]
+    + [elementy 1 i 4] wymagają danych opartych o wartości (waluty) przypisanej do konta bankowego konkretnego człowieka/organizacji na zewnątrz systemu
++ Opłata jest odnotowana w firmie i przelewana na konto fundacji realizującej transakcję pomiędzy osobami w technologii blockchain
+    + [elementy 2 i 3] (wewnętrzne) przeprowadzają wymianę w systemie blockchain
++ Korepetytor nie otrzymuje pieniędzy a jedynie informację, że opłata została wniesiona do systemu blockchain
++ Usługa zostaje wykonana, uczeń wystawia pozytywny komentarz
++ Pieniądze za wykonaną usługę mogą zostać wypłacone na zewnątrz systemu blockchain, wówczas zostaje zainicjowany przelew w [elemencie 4]
++ Po wypłaceniu konieczne będzie rozliczenie się z odpowiednimi urzedami w zależności od jurysdykcji 
 
 
 ## Proces wchodzenia i wychodzenie jednostek z systemu (do opracowania)
@@ -188,7 +209,7 @@ Warto rozróżnić dwie kwestie: prawne i opłatowe*
 
 ## Dla kogo może być przydatny eksperyment oraz wnioski po jego przeprowadzeniu
 
-+ Dla każdego chcącego sprawdzić jakie korzyści i wady wynikają z rozliczania człowieka z innych metod niż gotówkowe.
++ Dla każdego kto chce w praktyce sprawdzić korzyści i wady przy rozliczaniach metod w technologii blockchain.
 + Dla entuzjastów technologii blockchain chcących pogłębić swoją wiedzę i doświadczyć tego co czeka ich za dekadę.
 + Dla naukowców mających wiedzę w opisywanej technologii i prawie międzynarodowym, chcących się podzielić się wiedzą i wynikami swoich prac
 + Dla ludzi szukających inspiracji
@@ -196,10 +217,13 @@ Warto rozróżnić dwie kwestie: prawne i opłatowe*
 
 ## Pytania
 
+Inflacja wartości:
 + Czy będzie istniała i na jakim poziomie inflacja wartości subiektywnej (zapisanych zdarzeń) i obiektywnej (jednostek monetarnych) tego systemu?
-+ czy i kiedy była by możliwa?
++ Czy i kiedy była by możliwa?
+
+Struktura modelu:
 + zmiana struktury, w jaki sposób, jak często?
-+ Jak bazując na krokach w elementach modelu 2 i 3 transferować rezultaty zdarzeń pomiędzy jednostkami bezpośrednio bez udziału elementów 1 i 4, które były by stosowane do rozliczeń z aktualnym systemem zewnetrznym?
++ Jak w elementach modelu 2 i 3 transferować rezultaty zdarzeń pomiędzy jednostkami bezpośrednio, bez udziału elementów 1 i 4?
 + Jakie były by koszty prowadzenia tych sformalizowanych form?
 + Ile takich modeli trzeba by było zmultiplikować w zależności od liczby, przyrostu nowych wolontariuszy?
 + Jak ubrać determinację jednostki do realizacji celów tak, by nie stały w konflikcie z zastanymi i istniejącymi systemami majacymi często sprzeczne, inne cele ?
