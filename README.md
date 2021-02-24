@@ -27,8 +27,7 @@ Będzie możliwe stworzenie proxy, warstwy stabilizującej, mogącej znieść wi
 
 # Tło
 
-## 2
-Agenda 2030
+## Agenda 2030
 
 O otaczającej nas rzeczywistości decydują rządy oraz coraz częściej korporacje poprzez lobbing.
 
@@ -39,8 +38,7 @@ Agenda 2030 to nie inicjatywa rządów a ludzi korporacji a mimo to jest impleme
 
 Rezultaty działań agendy 2030 dotyczą całego globu i nie jest możliwe jej powstrzymanie, dlatego tym bardziej warto zrozumieć już dziś rezultaty za tą agendą idące.
 
-## 3
-Pytania
+## Pytania o przyszłość
 
 Warto poznać w praktyce rezultaty przeprowadzając opisywany w tym dokumencie eksperyment, mając mozłiwość przekonujać się czym jest ta agenda:
 + czy agenda 2030 uchroni nas przed skutkami tego z czym oficjalnie mówi, że walczy?
@@ -56,8 +54,7 @@ Warto poznać w praktyce rezultaty przeprowadzając opisywany w tym dokumencie e
 + Jak zmieni się ilość niewolników na świecie oraz ilość obozów koncentracyjnych?
 
 
-## 4
-Wartości
+## Wartości
 
 Wartości są ideą, nie mają miary. 
 + 99% prawdy to kłamstwo
@@ -70,8 +67,7 @@ Bierność to też decyzja
 + [Prawo natury – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Prawo_natury)
 
 
-## 5
-Obywatel i rząd
+## Obywatel i rząd
 
 Populacja człowieka jest zdeterminowana jego zdolnością do rozmnażania.
 Zdolność ta w Europie maleja z roku na rok na skutek szkodliwych działań organizacji współpracujących z rządami.
@@ -80,8 +76,7 @@ Ludzie wolni, szukają rozwiązań zgodnych z prawem.
 Obecnie tocząca się wojna rodzi konflikty moralne z powodu siłowych rozwiązań rządów wielu krajów.
 Rządy łamią prawo na prędce ustanawiane, burząc zaufanie i ład, egzekwując wadliwe prawo wprowadzają chaos.
 
-## 6
-System
+## System
 
 Czym jest obecnie funkcjonujący system i jakie są jego cele?
 - zespół wzajemnie powiązanych elementów realizujących jako całość założone cele
@@ -98,7 +93,8 @@ Cele systemu nigdy nie były i nie będą zbieżne z pojedynczą jednostką, cz�
 
 # Technologia
 
-## 1
+## Blockchain
+
 Blockchain jako sposób zapisu transakcji i informacji nie był pierwszym, gdyż od kilkudziesięciu lat są rozwijane różne metody zapisu i strukturyzacji danych.
 Nawet ten dokument przeze mnie pisany jest oparty o rozproszony system zapisu plików nazywany systemem kontroli wersji (plików) Git, w pewnych kwestiach podobny do technologii blockchain.
 
@@ -106,7 +102,7 @@ Nawet ten dokument przeze mnie pisany jest oparty o rozproszony system zapisu pl
 + [blockchain](https://pl.wikipedia.org/wiki/Blockchain)
 
 
-## 2
+## Fizyka a praca człowieka
 
 Techniczne aspekty, przydatne przy rozliczaniu się wzajemnie z usług, możliwe do wykorzystania w barterze blockchain:
 
@@ -133,16 +129,16 @@ dlatego ilość włożonej energii nie jest proprocjonalna do ilości przejechan
 
 # Aspekty prawne
 
-## 1
+## Umowa
 
 Formy umowy pozwalaja na inne sposoby oceniania rezultaty niezależnie od pracy włożonej i czasu na to przeznaczonego.
 Samo istnienie potencjału/energii nie jest opłatowane**
 Sam fakt zaistnienia zdarzenia ma różne konteksty
 
 
-## 2
+## Rozliczenia
 
-Rozwiązania prawne wdrożone w całym ekosystemie powinny pomóc w przeprowadzeniu eksperymentu bez skutków opłatowych*, by wyniki nie był zachwiane poprzez zmienną politykę rządów, które coraz częściej zmieniają warunki otoczenia i wcale nie zamierzają stabilizować prawa a jesli tak to z korzyścią dla siebie narzucając inne opłaty* np. od obrotu jako dodatkowe opłaty* a nie alternatywne.
+Rozwiązania prawne wdrożone w całym ekosystemie powinny pomóc w przeprowadzeniu eksperymentu bez skutków opłatowych*, by wyniki nie był zachwiane poprzez zmienną politykę rządów, które coraz częściej zmieniają warunki otoczenia i wcale nie zamierzają stabilizować prawa a jeśli tak to z korzyścią dla siebie narzucając inne opłaty* np. od obrotu jako dodatkowe opłaty* a nie alternatywne.
 
 Warto rozważyć obecny stan prawny majacy wpływ na strukturę organizacyjną oraz na sposób rozliczeń.
 
@@ -150,8 +146,7 @@ Warto rozważyć obecny stan prawny majacy wpływ na strukturę organizacyjną o
 # Model
 ![ecosystem-blockchain.png](ecosystem-blockchain.png)
 
-## 1
-Przykładowy model.
+## Przykładowy model.
 
 Dwie Fundacje dla potrzeb pobierania i przesyłania dalej środków bez opłat* rządu w ramach celów statusowych (ekpserymentu), stanowiące proxy
 2 Firmy/Osoby-prywante na początku i końcu 
@@ -165,8 +160,7 @@ Dwie Fundacje dla potrzeb pobierania i przesyłania dalej środków bez opłat* 
     + przelew na konto do organizacji spoza blockchain
 
 
-## 2
-Cechy modelu:
+## Cechy modelu:
 
 + system zewnętrzny 1 i 4 używa jednostek, system wewnętrzny 2 i 3 zapisu zdarzeń
 + transfer barterowy pomiędzy jednostkami odbywa sie w wewnętrznym systemie 2 i 3 
@@ -183,12 +177,10 @@ Warto rozróżnić dwie kwestie: prawne i opłatowe*
 + wewnątrz zero kosztów, opłat* systemowych tylko czysty zapis transakcji
 
 
-## 3
-Proces wchodzenia i wychodzenie jednostek z systemu (do opracowania)
+## Proces wchodzenia i wychodzenie jednostek z systemu (do opracowania)
 
 
-## 4
-Proces zwiększania i zmniejszania jednostek w systemie wewnętrznym i zewnętrznym (do opracowania)
+## Proces zwiększania i zmniejszania ilości jednostek w systemie wewnętrznym i zewnętrznym (do opracowania)
 
 
 # Podsumowanie
