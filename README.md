@@ -7,6 +7,7 @@ Implementacja rzeczywistości w zapisie blockchain za pomocą istniejących form
 
 # Wstęp
 
+
 ## Powód
 
 Trudno się nie zgodzić, że obecny stan prawny w Polsce jest niestabilny.
@@ -95,6 +96,10 @@ Cele systemu nigdy nie były i nie będą zbieżne z pojedynczą jednostką, cz�
 
 
 # Technologia
+
+## Bezpieczeństwo
+
++ [SECURITY.md](SECURITY.md)
 
 ## Blockchain
 
