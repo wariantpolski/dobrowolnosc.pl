@@ -7,6 +7,7 @@ Implementacja rzeczywistości w zapisie blockchain za pomocą istniejących form
 
 # Wstęp
 
+[Tło do wstepu: FUTURE.md](FUTURE.md)
 
 ## Powód
 
