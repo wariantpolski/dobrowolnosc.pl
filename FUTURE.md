@@ -5,7 +5,21 @@
 tło do eksperymentu dobrowolnosć:
 
 
+
 wszystko obraca się wokół człowieka:
+
+Co potrzebuje człowiek do przeżycia?
++ pożywienie
++ opiekę medyczną
++ schronienie
++ bezpieczeństwo
+
+Współczesny:
++ energia elektryczna
++ dostęp do transportu
++ dostęp do technologii
++ dostęp do wymiany waluty
+
 
 co zostało obecnie ograniczone:
 
