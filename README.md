@@ -256,10 +256,8 @@ Struktura modelu:
 + Jak podjąć temat zwiększenia efektywności pozyskiwania dóbr bez udziału świata finansów przygotowanych przez (lokalny i globalny) system?
 
 
-# Autor specyfikacji
 
-Tomasz Sapletta
-
+### Dlaczego Polska?
 
 Poniżej zamieszczam odpowiedź na pytanie, Dlaczego warto to zrobić w Polsce?
 
@@ -268,8 +266,27 @@ na dzień dzisiejszy trzeba się odnaleźć w prawnym bałaganie w Polsce, gdzie
 Polacy z reguły szukają korzystnych rozwiązań poza granicami, świadczy o tym choćby przerejstrowywanie firm z Polski do UK i innych krajów świata.
 
 Ten ekosystem do rozliczeń ma być dodatkową warstwa abstrakcji wykorzystując zastane środowisko. 
-Ma być mostem pomiędzy tym co jest teraz i będzie po resecie i dekadę dalej.
+
+Ma być mostem pomiędzy tym co jest teraz, będzie po resecie i dekady dalej...
+
 Wszelkie nagłe zmiany odbijają się czkawką, dlatego w tym ekosystemie blockchain widzę możliwość stabilizacji zewnętrznych skutków prawnych i społecznych.
 
+### Bezpieczeństwo jednostki
+
+Sytuacja jest taka, że system zbyt dużo o nas wie i musimy dla własnego i innych dobra zniknąć (w świecie internetowym).
+Teraz jest to łatwe, ponieważ zależy od używanego oprogramowania, gdyż wiele spraw odbywa się online.
+
+
+### Szyfrowanie
+
+To nie my potrzebujemy systemu, tylko on nas.
+
+Kluczem jest szyfrowanie wszystkiego co robimy, używanie większej ilości rozproszonych usług poprzez odchodzenie od popularnych i "darmowych" platform. 
+Zróbmy dwa kroki do przodu i zaskoczmy system!
+
+
+# Autor specyfikacji
+
+Tomasz Sapletta
 
 
