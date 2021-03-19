@@ -31,7 +31,7 @@ Pytanie jakie się rodzi to:
     + próbę narzucenia ryzykownych testów oraz niezprzbadanych preparatów chemicznych
     + nietolerancja i budowa na tym systemu paszportów szczepiennych 
 
-###  ruch prawniczy
+### Ruch prawniczy
 
 Dający szansę na walkę z lockdown-ową polityką rządu wywołującą szkody ekonomiczne, społeczne i psychiczne.
 
