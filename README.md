@@ -17,8 +17,38 @@ Pytanie jakie się rodzi to:
 
 + Jakie rozwiązanie pozwoli zniwelować szkodliwe skutki polityki rządu?
 
+## Rozwiązania
 
-## Rozwiązanie
+### Protesty
+
++ protesty pod domami rządowych polityków, samochody z megafonami w okręgu wyborczym danego posła, aby dany region świetnie sobie zdawał świadomość za jakimi szkodliwymi przepisami głosował ten polityk. 
+
++ Bardzo często dany okręg ma sporo korzyści z takiego polityka, np. załatwieniem remontu dróg czy innych, lokalnych korzyści - i dopiero jak okręg zacznie go postrzegać jak utrapieniem (np. z powodu częstych protestów), dopiero politycy zaczną postępować bardziej racjonalnie.
+
++ pociąganie do odpowiedzialności polityków rządu za:
+    + narzucanie niekonstytucyjnych obostrzeń
+    + Doprowadzenie do nadmiernych zgonów, ok  70tys w roku 2020
+    + próbę narzucenia ryzykownych testów oraz niezprzbadanych preparatów chemicznych
+    + nietolerancja i budowa na tym systemu paszportów szczepiennych 
+
+###  ruch prawniczy
+
+Dający szansę na walkę z lockdown-ową polityką rządu wywołującą szkody ekonomiczne, społeczne i psychiczne.
+
+Ruch prawniczy mógłby kontrolować działania policji i sanepidu, informując ich, że za postępowanie niezgodne z Konstytucją zostaną pociągnięci do odpowiedzialności - możliwe, że wtedy spora część policji i sanepidu zostawiłaby przedsiębiorców i społeczeństwo w spokoju.
+Takim ewentualnym liderem tego ruchu mógłby być Pan Piotr Schramm.
+
+Dodatkowo, jeśli rząd będzie mógł robić co chce i nie ponosić za to odpowiedzialności (np. jak za nadmierną umieralność), 
+to możliwe, że bardzo szybko postanowi spacyfikować ośrodki, które mu wadzą i podporządkować je sobie całkowicie - przykładowo, media i wymiar sprawiedliwości.
+
+W efekcie czego, dzisiaj rząd może nielegalnie zamykać firmy, a przyszłości bardzo możliwe, że dziennikarzy i prawników szukających prawdy
+
+
+W obecnych czas można jeszcze wiele zmienić i odkręcić, bo na razie w tym "Nowym Ładzie" więcej Bareji niż Jaruzelskiego, ale z czasem te propozycje zaczną się niekorzystnie zmienić.
+
+## Eksperyment
+
+Eksperyment pozwoli zbudowac lepsza przyszłosć w oparciu o nadchodzace zmiany w technologach dotyczących życia codziennego.
 
 Eksperyment jest szansą wypracowania rozwiązania poprzez zastosowanie technologii blockchain.
 
@@ -29,35 +59,7 @@ Rezultatem eksperymentu ma być wypracowanie warstwy stabilizującej obecne prob
 
 # Tło
 
-## Agenda 2030
-
-Z obserwacji wydarzeń w ostatnim roku 2020 łatwo można zauważyć pewną specyfikę obecnych czasów.
-Istota demokracji polegająca na rządach ludu choćby w referendach nie jest realizowana.
-+ [Demokracja](https://pl.wikipedia.org/wiki/Demokracja)
-
-
-To jaki system przeważa nie zależy od samych zapisów prawa a od jego egzekwowania zgodnie a nie ponad prawem.
-Niestety wielu odczuło w czasie Lockdown'u, że prawo silniejszego to najbardziej aktualne prawo.
-
-Agenda 2030 to nie inicjatywa rządów a ludzi korporacji wpływających na zmiany na poziomie kraju poprzez lobbing.
-
-Rezultaty działań Agendy 2030 dotyczą całego globu i nie jest możliwe jej powstrzymanie, dlatego tym bardziej warto zrozumieć już dziś rezultaty tego planu na najbliższą dekadę.
-
-## Pytania
-
-Warto poznać w praktyce rezultaty przeprowadzając opisywany w tym dokumencie eksperyment, mając mozłiwość przekonujać się czym jest ta agenda:
-+ czy agenda 2030 uchroni nas przed skutkami tego z czym oficjalnie mówi, że walczy?
-+ co jeśli agenda 2030 poniesie fiasko i zamiast tego co planowała przyniesie odwrotne skutki?
-+ Jak zmieni się stan własności przecietnej osoby w roku 2030?
-+ Jak zmieni się model i jakość życia?
-+ Jak wzrosną koszty życia i energii oraz surowców?
-+ jak zmieni się ilość ludności, starszych osób?
-+ Jakie w praktyce będzie miała prawa jednostka, o czym będzie mogła decydować ?
-+ Do czego wystarczy dochód podstawowy?
-+ Od czego będzie uzależniony dochód podstawowy i czy będzie można funkcjonować bez niego?
-+ jak wpłynie to na zdrowie i opiekę medyczną?
-+ Jak zmieni się ilość niewolników na świecie oraz ilość obozów koncentracyjnych?
-
+[horyzont2030.pl - O projekcie horyzont2030](https://www.horyzont2030.pl/)
 
 ## Wartości
 
