@@ -36,7 +36,8 @@ Pytanie jakie się rodzi to:
 Dający szansę na walkę z lockdown-ową polityką rządu wywołującą szkody ekonomiczne, społeczne i psychiczne.
 
 Ruch prawniczy mógłby kontrolować działania policji i sanepidu, informując ich, że za postępowanie niezgodne z Konstytucją zostaną pociągnięci do odpowiedzialności - możliwe, że wtedy spora część policji i sanepidu zostawiłaby przedsiębiorców i społeczeństwo w spokoju.
-Takim ewentualnym liderem tego ruchu mógłby być Pan Piotr Schramm.
+Takim ewentualnym liderem tego ruchu mógłby być 
++ Pan Piotr Schramm, https://gessel.pl/zespol/piotr-schramm/
 
 Dodatkowo, jeśli rząd będzie mógł robić co chce i nie ponosić za to odpowiedzialności (np. jak za nadmierną umieralność), 
 to możliwe, że bardzo szybko postanowi spacyfikować ośrodki, które mu wadzą i podporządkować je sobie całkowicie - przykładowo, media i wymiar sprawiedliwości.
