@@ -222,9 +222,9 @@ Na podstawie transakcji opłacanej z góry
 ![ecosystem-blockchain.png](ecosystem-blockchain-2.png)
 
 ## Przykładowy model
-Ten model jest przeznaczony dla osób prywatnych, model dla firm byłby uproszczony i nie zawierałby fundacji.
+Ten model jest przeznaczony dla osób prawnych, organizacji, przedsiębiorstw, nie zawiera fundacji a tylko spółkę w Estonii, która może prowadzić działalność związaną z kryptowalutami.
 
-Dwie Fundacje dla potrzeb pobierania i przesyłania środków bez opłat* pomiędzy użytkownikami w ramach celów statusowych (ekpserymentu).
+Dwie Firmy w Estonii dla potrzeb pobierania i przesyłania środków bez opłat* pomiędzy firmami w ramach eksperymentu oraz firmy uczestniczące w tworzeniu usług i dystrybucji produktów:
 
     + przelew wchodzacy od osoby prawnej
         1 spółka rezydencji: księguje przychód
