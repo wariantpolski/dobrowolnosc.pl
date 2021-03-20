@@ -17,9 +17,12 @@ Pytanie jakie się rodzi to:
 
 + Jakie rozwiązanie pozwoli zniwelować szkodliwe skutki polityki rządu?
 
-## Rozwiązania
+# Rozwiązania:
++ Protesty
++ Ruch prawniczy
++ Eksperyment społeczny
 
-### Protesty
+## Protesty
 
 + protesty pod domami rządowych polityków, samochody z megafonami w okręgu wyborczym danego posła, aby dany region świetnie sobie zdawał świadomość za jakimi szkodliwymi przepisami głosował ten polityk. 
 
@@ -31,7 +34,7 @@ Pytanie jakie się rodzi to:
     + próbę narzucenia ryzykownych testów oraz niezprzbadanych preparatów chemicznych
     + nietolerancja i budowa na tym systemu paszportów szczepiennych 
 
-### Ruch prawniczy
+## Ruch prawniczy
 
 Dający szansę na walkę z lockdown-ową polityką rządu wywołującą szkody ekonomiczne, społeczne i psychiczne.
 
