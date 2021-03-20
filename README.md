@@ -41,10 +41,11 @@ Takim ewentualnym liderem tego ruchu mógłby być Pan Piotr Schramm.
 Dodatkowo, jeśli rząd będzie mógł robić co chce i nie ponosić za to odpowiedzialności (np. jak za nadmierną umieralność), 
 to możliwe, że bardzo szybko postanowi spacyfikować ośrodki, które mu wadzą i podporządkować je sobie całkowicie - przykładowo, media i wymiar sprawiedliwości.
 
-W efekcie czego, dzisiaj rząd może nielegalnie zamykać firmy, a przyszłości bardzo możliwe, że dziennikarzy i prawników szukających prawdy
+W efekcie czego rząd obecnie nielegalnie zamyka firmy doprowadzając je do upadki finansowego
+a w kolejnym kroku wykupuje media przez spółki skarbu państwa i powiązane podmioty na skutek czego dziennikarze i prawnicy szukający prawdy nie mają szansy przetrwania w tak niesprzyjających upolitycznionych warunkach.
 
-
-W obecnych czas można jeszcze dużo zmienić, gdyż prawda i prawo sa po naszej stronie, ale kwestią czasu jest eksalacja bezprawia, przemocy i terroru rządów NWO, który legitimizuje się prawem do przemocy w imię zdrowia obywateli zamykając ich w areszie domowym i odmawiajac leczenia w szpitalu, przyczyaniając się do śmierci większej ilości ludzi niż na skutek wirusa.
+Dziś można jeszcze dużo zmienić, gdyż prawda i prawo sa po naszej stronie.
+Kwestią czasu jest eksalacja bezprawia, przemocy i terroru rządów NWO, który legitimizuje się prawem do przemocy w imię zdrowia obywateli zamykając ich w areszcie domowym i odmawiajac leczenia w szpitalu, przyczyaniając się do śmierci większej ilości ludzi niż na skutek wirusa.
 
 W 2020 było to ok. 70 tys zgonów nadmiarowych, niezwiązanych z zachorowaniami na wirusa.
 
