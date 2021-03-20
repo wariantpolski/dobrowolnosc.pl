@@ -46,7 +46,8 @@ W efekcie czego rząd obecnie nielegalnie zamyka firmy doprowadzając je do upad
 a w kolejnym kroku wykupuje media przez spółki skarbu państwa i powiązane podmioty na skutek czego dziennikarze i prawnicy szukający prawdy nie mają szansy przetrwania w tak niesprzyjających upolitycznionych warunkach.
 
 Dziś można jeszcze dużo zmienić, gdyż prawda i prawo sa po naszej stronie.
-Kwestią czasu jest eksalacja bezprawia, przemocy i terroru rządów NWO, który legitimizuje się prawem do przemocy w imię zdrowia obywateli zamykając ich w areszcie domowym i odmawiajac leczenia w szpitalu, przyczyaniając się do śmierci większej ilości ludzi niż na skutek wirusa.
+
+Kwestią czasu jest eskalacja bezprawia, przemocy i terroru rządu, który legitimizuje się prawem do przemocy w imię zdrowia obywateli zamykając ich w areszcie domowym i odmawiajac leczenia w szpitalu, przyczyaniając się do śmierci większej ilości ludzi niż na skutek wirusa.
 
 W 2020 było to ok. 70 tys zgonów nadmiarowych, niezwiązanych z zachorowaniami na wirusa.
 
