@@ -44,7 +44,10 @@ to możliwe, że bardzo szybko postanowi spacyfikować ośrodki, które mu wadz�
 W efekcie czego, dzisiaj rząd może nielegalnie zamykać firmy, a przyszłości bardzo możliwe, że dziennikarzy i prawników szukających prawdy
 
 
-W obecnych czas można jeszcze wiele zmienić i odkręcić, bo na razie w tym "Nowym Ładzie" więcej Bareji niż Jaruzelskiego, ale z czasem te propozycje zaczną się niekorzystnie zmienić.
+W obecnych czas można jeszcze dużo zmienić, gdyż prawda i prawo sa po naszej stronie, ale kwestią czasu jest eksalacja bezprawia, przemocy i terroru rządów NWO, który legitimizuje się prawem do przemocy w imię zdrowia obywateli zamykając ich w areszie domowym i odmawiajac leczenia w szpitalu, przyczyaniając się do śmierci większej ilości ludzi niż na skutek wirusa.
+
+W 2021 było to ok 70 tys zgonów nadmiarowych, niezwiązanych z zachorowaniami na wirusa.
+
 
 ## Eksperyment
 
