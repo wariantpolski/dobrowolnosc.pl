@@ -9,6 +9,8 @@ Implementacja rzeczywistości w zapisie blockchain za pomocą istniejących form
 
 [Tło do wstepu: FUTURE.md](FUTURE.md)
 
+[Rozmowy o wolności](WOLNOSC.md)
+
 ## Powód
 
 Trudno się nie zgodzić, że obecny stan prawny w Polsce jest niestabilny.
