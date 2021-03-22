@@ -11,6 +11,9 @@ Implementacja rzeczywistości w zapisie blockchain za pomocą istniejących form
 
 [Rozmowy o wolności](WOLNOSC.md)
 
+[FILMY](MOVIES.md)
+
+
 ## Powód
 
 Trudno się nie zgodzić, że obecny stan prawny w Polsce jest niestabilny.
