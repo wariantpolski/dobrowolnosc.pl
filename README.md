@@ -63,10 +63,17 @@ Kwestią czasu jest eskalacja bezprawia, przemocy i terroru rządu, który legit
 
 W 2020 było to ok. 70 tys zgonów nadmiarowych, niezwiązanych z zachorowaniami na wirusa.
 
-## Prawne rozwiązanie #otwieraMY
+## otwiera-my.pl 
 
 [#otwieraMY. 100% bezpieczeństwo. Bez kar z sanepidu (PPIS). Zobacz jak? - otwiera-my.pl](https://otwiera-my.pl/)
 
+Wśród przedsiębiorców, którzy zapoznali się z pomysłem, pojawiły się głosy sceptyczne co do skuteczności tej metody: 
+wskazali oni, że zakłada się w niej, że kontrolerzy będą działać zgodnie z prawem.
+
+Ich wątpliwości zostały szybko potwierdzone przez przykłady z życia wzięte: 
+inspektorom sanepidu nie przeszkodziło we wręczeniu decyzji o zamknięciu lokalu to, że kuchnia działała tylko na wynos, a klienci spożywali posiłki w przestrzeni znajdującej się w zarządzaniu innego podmiotu. 
+
+Więcej: https://biznes.radiozet.pl/News/Strajk-Przedsiebiorcow-ma-sposob-na-sanepid-Koniec-cwaniakowania-wladzy
 
 ## Eksperyment
 
