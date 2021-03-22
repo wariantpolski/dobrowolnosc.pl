@@ -20,9 +20,13 @@ Pytanie jakie się rodzi to:
 + Jakie rozwiązanie pozwoli zniwelować szkodliwe skutki polityki rządu?
 
 # Rozwiązania:
+
 + Protesty
 + Ruch prawniczy
++ otwiera-my.pl
 + Eksperyment społeczny
+
+
 
 ## Protesty
 
@@ -55,6 +59,10 @@ Dziś można jeszcze dużo zmienić, gdyż prawda i prawo sa po naszej stronie.
 Kwestią czasu jest eskalacja bezprawia, przemocy i terroru rządu, który legitimizuje się prawem do przemocy w imię zdrowia obywateli zamykając ich w areszcie domowym i odmawiajac leczenia w szpitalu, przyczyaniając się do śmierci większej ilości ludzi niż na skutek wirusa.
 
 W 2020 było to ok. 70 tys zgonów nadmiarowych, niezwiązanych z zachorowaniami na wirusa.
+
+## Prawne rozwiązanie #otwieraMY
+
+[#otwieraMY. 100% bezpieczeństwo. Bez kar z sanepidu (PPIS). Zobacz jak? - otwiera-my.pl](https://otwiera-my.pl/)
 
 
 ## Eksperyment
