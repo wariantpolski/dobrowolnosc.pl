@@ -77,7 +77,19 @@ Więcej: https://biznes.radiozet.pl/News/Strajk-Przedsiebiorcow-ma-sposob-na-san
 
 ## Eksperyment
 
-[Tło](TLO.md)
+[Tło eksperymentu](EKSPERYMENT.md)
+
+
+## Powody
+
+Dla kogo może być przydatny eksperyment oraz wnioski po jego przeprowadzeniu
+
++ Dla każdego kto chce w praktyce sprawdzić korzyści i wady przy rozliczaniach metod w technologii blockchain.
++ Dla entuzjastów technologii blockchain chcących pogłębić swoją wiedzę i doświadczyć tego co czeka ich za dekadę.
++ Dla naukowców mających wiedzę w opisywanej technologii i prawie międzynarodowym, chcących się podzielić się wiedzą i wynikami swoich prac
++ Dla ludzi szukających inspiracji
+
+## Sens
 
 Eksperyment pozwoli zbudowac lepsza przyszłosć w oparciu o nadchodzace zmiany w technologach dotyczących życia codziennego.
 
@@ -87,9 +99,8 @@ Wyniki pozwolą na ocenę wpływu technologii blockchain na całą społecznoś�
 
 Rezultatem eksperymentu ma być wypracowanie warstwy stabilizującej obecne problemy prawne i społeczne.
 
-# Aspekty prawne
 
-## Umowa
+## Aspekty prawne, Umowa
 
 Formy umowy pozwalaja na inne sposoby oceniania rezultaty niezależnie od pracy włożonej i czasu na to przeznaczonego.
 Samo istnienie potencjału/energii nie jest opłatowane**
@@ -183,13 +194,6 @@ Dwie Firmy w Estonii dla potrzeb pobierania i przesyłania środków bez opłat*
 
 
 # Podsumowanie
-
-## Dla kogo może być przydatny eksperyment oraz wnioski po jego przeprowadzeniu
-
-+ Dla każdego kto chce w praktyce sprawdzić korzyści i wady przy rozliczaniach metod w technologii blockchain.
-+ Dla entuzjastów technologii blockchain chcących pogłębić swoją wiedzę i doświadczyć tego co czeka ich za dekadę.
-+ Dla naukowców mających wiedzę w opisywanej technologii i prawie międzynarodowym, chcących się podzielić się wiedzą i wynikami swoich prac
-+ Dla ludzi szukających inspiracji
 
 
 ## Pytania
