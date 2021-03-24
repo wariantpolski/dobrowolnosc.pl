@@ -243,6 +243,14 @@ To nie my potrzebujemy systemu, tylko on nas.
 Kluczem jest szyfrowanie wszystkiego co robimy, używanie większej ilości rozproszonych usług poprzez odchodzenie od popularnych i "darmowych" platform. 
 Zróbmy dwa kroki do przodu i zaskoczmy system!
 
+# Infrastruktura
+
+podziemna z wykrozystaniem robotów tego typu:
+https://all3dp.com/robot-badger-drill-3d-print-tunnels/
+
+naziemna z wykorzystaniem niezależnej szyfrowanej łączności IoT 
+towrząc małe lokalne bezpośrednie połączenia, uzupełniane w niektórych obszarach podziemną infratsrukturą. 
+
 
 # Autor specyfikacji
 
