@@ -227,6 +227,10 @@ Ma być mostem pomiędzy tym co jest teraz, będzie po resecie i dekady dalej...
 Wszelkie nagłe zmiany odbijają się czkawką, dlatego w tym ekosystemie blockchain widzę możliwość stabilizacji zewnętrznych skutków prawnych i społecznych.
 
 ### Bezpieczeństwo jednostki
+Wiedzieć a robić to dwie rzeczy. 
+
+Nie uciekniemy, ale możemy się bronić. 
+Możemy nie dać im się tak głęboko inwigilować jakby chcieli, uniezależnić i włączyć do gry rozwiąnia pomijające rolę rządów.
 
 Sytuacja jest taka, że system zbyt dużo o nas wie i musimy dla własnego i innych dobra zniknąć (w świecie internetowym).
 Teraz jest to łatwe, ponieważ zależy od używanego oprogramowania, gdyż wiele spraw odbywa się online.
