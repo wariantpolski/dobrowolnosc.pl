@@ -2,16 +2,17 @@
 
 # Tło
 
-[horyzont2030.pl - O projekcie horyzont2030](https://www.horyzont2030.pl/)
++ [O projekcie horyzont2030](https://www.horyzont2030.pl/)
 
 ## Wartości
-
++ [PRAWDA](PRAWDA.md)
+ 
 Wartości są ideą, nie mają miary. 
 + 99% prawdy to kłamstwo
 + 99% wolności to niewola
 
-Bierność to też decyzja
 
+Bierność to też decyzja
 
 + [System wartości – Encyklopedia Zarządzania](https://mfiles.pl/pl/index.php/System_warto%C5%9Bci)
 + [Prawo natury – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Prawo_natury)
