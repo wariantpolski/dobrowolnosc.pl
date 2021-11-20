@@ -253,13 +253,23 @@ towrząc małe lokalne bezpośrednie połączenia, uzupełniane w niektórych ob
 
 
 
-## Inne tematy:
+## Biznes, rezydencja
 
 + [Zaplanuj Biznes](https://www.zaplanujbiznes.pl/)
 + [Dlaczego warto robić biznes w Niemczech? dlaczego.de](https://www.dlaczego.de)
 + [Dlaczeo warto i jak zostać rezydentem niemieckim? rezydent.de](https://www.rezydent.de)
 + [Jak zostać nierezydentem polskim? nierezydent.pl](https://www.nierezydent.pl/)
 
+## Wolność
+
++ [O projekcie horyzont2030](https://www.horyzont2030.pl/)
++ [Dobrowolnosc](https://www.dobrowolnosc.pl/)
+
+
+## Technologie
+
++ [private5g.pl](https://www.private5g.pl/)
++ [IoT](https://mikroautomatyka.pl)
 
 ---
 
@@ -270,4 +280,9 @@ towrząc małe lokalne bezpośrednie połączenia, uzupełniane w niektórych ob
 
 ---
 
++ [edit](https://github.com/horyzont2030/dobrowolnosc.pl/edit/main/README.md)
+
+```
+https://github.com/horyzont2030/dobrowolnosc.pl.git
+```
 
