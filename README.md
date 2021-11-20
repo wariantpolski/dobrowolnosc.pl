@@ -253,18 +253,21 @@ towrząc małe lokalne bezpośrednie połączenia, uzupełniane w niektórych ob
 
 
 
-## Biznes, rezydencja
+## Biznes, rezydencja, podatki
 
 + [Zaplanuj Biznes](https://www.zaplanujbiznes.pl/)
 + [Dlaczego warto robić biznes w Niemczech? dlaczego.de](https://www.dlaczego.de)
 + [Dlaczeo warto i jak zostać rezydentem niemieckim? rezydent.de](https://www.rezydent.de)
 + [Jak zostać nierezydentem polskim? nierezydent.pl](https://www.nierezydent.pl/)
 
+
 ## Wolność
 
 + [O projekcie horyzont2030](https://www.horyzont2030.pl/)
 + [Dobrowolnosc](https://www.dobrowolnosc.pl/)
 + [Opowiadanie: Wariant Polski](https://www.wariantpolski.pl/)
++ [Lokalna Waluta .pl](https://www.lokalnawaluta.pl/)
+
 
 ## Technologie
 
