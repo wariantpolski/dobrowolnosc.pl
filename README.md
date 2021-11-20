@@ -264,7 +264,7 @@ towrząc małe lokalne bezpośrednie połączenia, uzupełniane w niektórych ob
 
 + [O projekcie horyzont2030](https://www.horyzont2030.pl/)
 + [Dobrowolnosc](https://www.dobrowolnosc.pl/)
-
++ [Opowiadanie: Wariant Polski](https://www.wariantpolski.pl/)
 
 ## Technologie
 
