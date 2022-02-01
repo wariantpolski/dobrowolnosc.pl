@@ -151,7 +151,16 @@ Warto rozróżnić dwie kwestie: prawne i opłatowe*
 + opłaty* tylko na zewnątrz
 + wewnątrz zero kosztów, opłat* systemowych tylko czysty zapis transakcji
 
+
 # Zasada działania 
+
+## transakcja wymiany
+rozwiązania sdo wymiany formalnej waluty lub rzeczy:
+
++ Wykorzystanie niezależnej komunikacji dla IoT do transakcji bezgotówkowych na blockchain z wykorzystaniem kryptowalut do tego przeznaczonych
+
++ rozliczenia za pomocą ksiąg barterowych w formie cyfrowej tak jak NFT lub w formie niezależnej pomiędzy stronami transakcji
+
 
 ## transakcja wymiany
 
