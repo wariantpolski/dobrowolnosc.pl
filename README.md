@@ -268,7 +268,7 @@ towrząc małe lokalne bezpośrednie połączenia, uzupełniane w niektórych ob
 + [Dlaczego warto robić biznes w Niemczech? dlaczego.de](https://www.dlaczego.de)
 + [Dlaczeo warto i jak zostać rezydentem niemieckim? rezydent.de](https://www.rezydent.de)
 + [Jak zostać nierezydentem polskim? nierezydent.pl](https://www.nierezydent.pl/)
-
++ https://cenabiznesu.pl/-ukryta-tajemnica-pieniadza
 
 ## Wolność
 
