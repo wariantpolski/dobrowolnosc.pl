@@ -31,6 +31,8 @@ Pytanie jakie się rodzi to:
 
 
 
+𝐈𝐧 𝐚 𝐰𝐨𝐫𝐥𝐝 𝐨𝐟 (𝐚𝐮𝐭𝐨)𝐜𝐞𝐧𝐬𝐨𝐫𝐬𝐡𝐢𝐩, 𝐢𝐭 𝐝𝐨𝐞𝐬𝐧'𝐭 𝐭𝐚𝐤𝐞 𝐦𝐮𝐜𝐡 𝐭𝐨 𝐩𝐫𝐨𝐯𝐞 𝐭𝐡𝐚𝐭 𝐟𝐫𝐞𝐞𝐝𝐨𝐦 𝐞𝐱𝐢𝐬𝐭𝐬, 𝐛𝐮𝐭 𝐢𝐭'𝐬 𝐚 𝐡𝐨𝐛𝐛𝐲 𝐨𝐟 𝐭𝐡𝐞 𝐫𝐢𝐜𝐡, 𝐬𝐨 𝐬𝐦𝐨𝐤𝐞 𝐲𝐨𝐮𝐫 𝐜𝐢𝐠𝐚𝐫 𝐚𝐧𝐝  𝐈'𝐥𝐥 𝐞𝐧𝐣𝐨𝐲 𝐭𝐡𝐞 𝐟𝐫𝐞𝐞𝐝𝐨𝐦 𝐨𝐟 𝐬𝐩𝐞𝐞𝐜𝐡, 𝐈 𝐜𝐚𝐧 𝐚𝐟𝐟𝐨𝐫𝐝 𝐭𝐡𝐞 𝐞𝐱𝐩𝐞𝐧𝐬𝐞 ... 
+
 ## Protesty
 
 + protesty pod domami rządowych polityków, samochody z megafonami w okręgu wyborczym danego posła, aby dany region świetnie sobie zdawał świadomość za jakimi szkodliwymi przepisami głosował ten polityk. 
