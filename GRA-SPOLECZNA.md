@@ -65,6 +65,26 @@ Gra "Scenariusze Humanitarne" to inicjatywa, która wpływa na społeczność, z
 
 ## Promowanie
 
+
+Promowanie pozytywnych postaw, jak dobrowolność, w mediach społecznościowych przez niezależnych twórców może przynieść wiele korzyści:
+
+1. Ekspozycja: Tworząc i dzieląc się treścią promującą dobrowolność, twórcy mogą zwiększyć swoją widoczność i zasięg w sieci.
+
+2. Budowanie społeczności: Promowanie wartości, takich jak dobrowolność, może pomóc w budowaniu silnej, zaangażowanej społeczności, która ceni te same wartości.
+
+3. Wiarygodność: Twórcy, którzy promują takie wartości, są często postrzegani jako wiarygodni i godni zaufania.
+
+4. Partnerstwa: Mozliwe partnerstwa z organizacjami non-profit czy innymi podmiotami, które cenią i promują dobrowolność.
+
+5. Satysfakcja osobista: W końcu, promowanie idei dobrowolności i pomaganie w jej rozpowszechnianiu może przynieść twórcom dużą satysfakcję. Dobrowolność to wartość, która w dużej mierze przyczynia się do budowania lepszego, bardziej współpracującego świata.
+
+Jest to więc zarówno korzystne dla samego twórcy, jak i społeczności, do której dociera, a "Dobrowolność" jako gra społeczna, będzie wymagała aktywnego zaangażowania i partycypacji twórców z różnymi tłem i umiejętnościami.
+
+
+
+## Przykłady promocji
+
+
 Promowanie gier społecznych i pozytywnych zachowań może być kluczem do budowania większej świadomości i angażowania społeczności. Poniżej znajdują się przykładowe scenariusze i teksty do promocji gry "Zasady Szacunku" w mediach społecznościowych na Twitter, Facebook i YouTube:
 
 1. Twitter: 
@@ -80,6 +100,32 @@ Scenariusz: Twórz filmy przedstawiające symulacje scenariuszy z gry. Użyj typ
 Tekst: "Czy kiedykolwiek zastanawiałeś się, co zrobić, gdy widzisz, jak ktoś jest niesprawiedliwie traktowany? Na naszym kanale "Zasady Szacunku" pokazujemy, jak każdy z nas może pomóc! Subskrybuj nas i bądź na bieżąco z naszymi najnowszymi filmami." 
 
 Pamiętaj, że promowanie takiej gry nie jest tylko o zwiększaniu świadomości, ale także o tworzeniu społeczności osób, które są gotowe do działań na rzecz praw człowieka. Używaj mediów społecznościowych jako miejsca do wymiany pomysłów, doświadczeń i historii. Podkreślaj, że każdy może mieć wpływ i zachęcaj do aktywnego udziału.
+
+
+## list 
+
+Przykład twórców:
+1. Blogerzy i twórcy treści: osoby prowadzące blogi lub kanały na różne tematy, od lifestylu po politykę. Dobrowolność mogłaby być dla nich sposobem na zaangażowanie się w sprawy społeczne, dzielenie się swoimi przemyśleniami i doświadczeniami, a także na promowanie konkretnych działań.
+2. Influencerzy mediów społecznościowych: osoby z dużą liczbą obserwujących na platformach takich jak Instagram, Twitter czy TikTok mogą wykorzystać swoją platformę do promowania Dobrowolności. 
+3. Artystki i artyści: osoby tworzące twórczość artystyczną mogą dodać do swoich prac elementy promujące Dobrowolność, np. poprzez stworzenie specjalnej serii prac poświęconych tej tematyce.
+
+Przykładowa wiadomość:
+
+Cześć [imię],
+
+Mam nadzieję, że wszystko u Ciebie dobrze. Piszę do Ciebie w związku z fascynującym projektem, który możesz znaleźć interesującym.
+
+Nazywa się "Dobrowolność" i jest to gra społeczna stworzona z myślą o promowaniu szacunku i praw człowieka. Głównym celem jest zachęcanie do aktywnego udziału w przestrzeni publicznej i opowiedzenie się przeciwko niesprawiedliwości.
+
+Twoje wpływy i talent czynią Cię idealną osobą do włączenia się w ten projekt. Możesz to zrobić na wiele różnych sposobów - od udostępniania postów i tworzenia własnej treści, po organizację lokalnych wydarzeń. 
+
+Bycie częścią "Dobrowolności" da Ci możliwość nawiązania nowych, wartościowych kontaktów, zwiększenia zasięgu i wpływu, a przede wszystkim uczucia osobistej satysfakcji, że pomagasz wpływać na pozytywną zmianę w naszym społeczeństwie.
+
+Jeśli jesteś zainteresowana/y, chętnie podzielę się z Tobą więcej informacji. 
+
+Pozdrawiam,
+[Twoje Imię]
+
 
 
 ## AI
