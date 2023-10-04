@@ -127,6 +127,49 @@ Pozdrawiam,
 [Twoje Imię]
 
 
+## Zaangażowanie influencerów 
+
+Zaangażowanie influencerów często wymaga bezpośredniego i personalizowanego podejścia, ale można też skorzystać z innych, bardziej twórczych strategii.
+
+Poniżej znajduje się scenariusz gry z wykorzystaniem influencerów oparty na idei "Dobrowolności":
+
+1. Rozpocznij od stworzenia wyzwania w mediach społecznościowych powiązanego z grą "Dobrowolność". Może to być na przykład wyzwanie "#DobrowolnyAkt", które polega na udokumentowaniu i udostępnieniu jakiegoś altruistycznego, dobrowolnego działania dla innych. 
+
+2. Wprowadź element grywalności - na przykład, jedna osoba nominuje kolejną do podjęcia wyzwania, tworząc łańcuch dobrowolnych działań na różnych profilach.
+
+3. Zaangażuj kilku influencerów, którzy chcieliby wziąć udział w wyzwaniu. Pozwól im dokumentować swoje doświadczenia z 'Dobrowolnością' i podziel się tym na stronie gry oraz swoich kanałach mediów społecznościowych.
+
+4. Nagradzaj engażujące się osoby. To może być specjalne wyróżnienie na stronie gry, albo chociażby publiczne podziękowanie. Możliwe są także inne formy gratyfikacji: produkty, vouchery, itp.
+
+5. Głównym celem jest tu nie tylko promocja gry i idei dobrowolności, ale także zaangażowanie społeczności influencerów, którzy mogą zainspirować swoich obserwujących do własnych dobrowolnych działań.
+
+Takie podejście pozwoli zachęcić influencerów do udziału, promując jednocześnie grę, a także ideę dobrowolności w szerszym społeczeństwie.
+
+
+## Scenariusz:
+
+1. Po pierwsze, należy zainicjować projekt "Dobrowolność" na platformie społecznościowej, na przykład Instagram, z szeregiem postów dotyczących znaczenia i korzyści z bycia dobrowolnym. Pamiętaj, że zdjęcia i wiadomości powinny być atrakcyjne i inspirujące.
+
+2. W tym czasie, jako strategię zaangażowania, możesz uruchomić konkurs na najlepsze "zdjęcie/kompozycję/film w temacie dobrowolności". Zwycięzca zostanie zaproszony na sesję wideo z popularnym influencerem.
+
+3. Następnie, wprowadź hasztag, który skupia się na projekcie, na przykład #DobrowolnikZmiany. Zezwól na to, aby twoi followersi zaczęli używać hasztagu w swoich postach, dzięki czemu twoi influencerzy zauważą ruch wokół tego tematu.
+
+4. Równocześnie zaproś do współpracy influencerów, interesujących się tematem wolontariatu i dobroczynności. Wysyłaj im wiadomości na prywatne skrzynki, ale także skomentuj jakiś ich post lub film na YouTube, na którym mogą zareagować zarówno oni, jak i ich inni widzowie.
+
+5. Twoja aktywność powinna zainteresować influencera i skłonić go do sprawdzenia hasztagu #DobrowolnikZmiany. Odkryją tam historie wielu osób, które są już zaangażowane w twój projekt.
+
+6. Gdy influencer zdecyduje się promować projekt "dobrowolność", możesz poprosić o stworzenie specyficznego treści, na przykład filmu YouTube, w którym omówią swoje doświadczenia lub idee związane z dobrowolnictwem.. Możesz także zasugerować, aby udostępnili historie swoich followersów, którzy już zaangażowali się w projekt.
+
+Przykładowe zastosowanie:
+
+Influencer: (Film na YouTube) "Cześć, jestem Anna i dzisiaj chciałabym porozmawiać o projekcie na Instagramie, który rzeczywiście mnie zainspirował - #DobrowolnikZmiany..."
+
+Anna kontynuuje, opowiadając o projekcie, przedstawiając przykłady postów, które zobaczyła pod tym hasztagiem. Pokazuje, jak sama zamierza się zaangażować i zachęca swoich widzów do wzięcia udziału.
+
+Odbiorca: (Komentarz pod filmem) "Świetny film, Anna. Bardzo cenię to, że podjęłaś ten temat. Zarejestrowałem się na akcję #DobrowolnikZmiany już miesiąc temu i to była jedna z najlepszych decyzji, jakie podjąłem. Zachęcam wszystkich do udziału!"
+
+Taki wpis podnosi zaangażowanie społeczności i zachęca do działania, a influencer ma bezpośrednią motywację do dalszego promowania projektu.
+
 
 ## AI
 
